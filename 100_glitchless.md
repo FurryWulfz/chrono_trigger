@@ -185,7 +185,9 @@ Get Marle from her room
 
 #### Battle: *Poly, Green Imp*
 
-**Run away**
+| Action   |
+| :--      |
+| Run away |
 
 Return to 1000 AD  
 
