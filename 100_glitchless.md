@@ -53,8 +53,8 @@ Bird Skip
 
 ### Guardia Forest
 
-Head right and talk to the rock
-**GET**: Power Tab
+Head right and talk to the rock  
+**GET**: Power Tab  
 Head up to the castle  
 
 ### Guardia Castle
