@@ -5,6 +5,8 @@ Timing is from naming Crono to the start of Lavos Core's death animation.  100% 
 Remove all saves before starting the game (Start+Select on Controller 2), or hold Up/Down and mash to choose New Game (4-frame window)  
 Battle Mode on Wait  
 
+This route was made referencing [puwexil's route](https://www.youtube.com/watch?v=UCTi18ZXqBE).
+
 ## 1000 AD
 
 ### Chrono's House
