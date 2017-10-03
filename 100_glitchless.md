@@ -25,11 +25,11 @@ Go to shop in first area, bottom left in purple tent
 
 #### Shop
 
-| Action  | Item    | Cost | Amount | Balance |
-| :--     | :--     |  --: |    --: |     --: |
-|         |         |      |        |    400G |
-| **Buy** | Shelter | 150G |      2 |    100G |
-| **Buy** | Tonic   |  10G |     10 |      0G |
+| Action  | Item    | Cost |    Amount | Total |
+| :--     | :--     |  --: |       --: |   --: |
+| **Buy** | Shelter | 150G |         2 |  300G |
+| **Buy** | Tonic   |  10G |        10 |  100G |
+|         |         |      | **Total** |  400G |
 
 Head to teleporters  
 Wait for candy scene  
@@ -194,3 +194,410 @@ Get Marle from her room
 Return to 1000 AD  
 
 ## 1000 AD
+
+### Leene Square
+
+Lucca leaves party  
+Take Marle back to Guardia Castle  
+
+### Guardia Castle
+
+Answer "Marle did" and "Yes" for the Trial  
+
+> Getting "Guilty" or "Not Guilty" is completely random, but getting "Guilty" will save 6 seconds from dialogue.
+
+### Guardia Castle Dungeon
+
+Drink from the cup to restore HP and MP  
+Bang on the gate three times  
+
+#### Battle: *Guard*
+
+| Characters | Action  | Target |
+| :--        | :--     | :--    |
+| Chrono     | Cylcone | Guard  |
+
+Slide down the middle of the shield guards  
+Go top right to the bridge  
+
+#### Battle: *Two Guards*
+
+| Characters | Action  | Target  |
+| :--        | :--     | :--     |
+| Chrono     | Cylcone | Guard 1 |
+| Chrono     | Cylcone | Guard 2 |
+
+Knock out the guard in the next room  
+**GET**: Mid Tonic from the guard
+Head up then left  
+Knock out the guard by the door  
+**GET**: Mid Tonic from the guard  
+
+Cross the bridge  
+Slide by the shield guards again  
+Head up right  
+
+#### Battle: *Two Guards*
+
+| Characters | Action  | Target      |
+| :--        | :--     | :--         |
+| Chrono     | Cylcone | Both Guards |
+
+Lucca joins party  
+**GET**: 5x Mid Tonic from the Supervisor  
+Head outside  
+
+#### Menus
+
+Change Battle Guage to 1  
+
+#### Decisive Battle: *Dragon Tank*
+
+| Characters    | Action     | Target      |
+| :--           | :--        | :--         |
+| Chrono        | Attack     | Tank Head   |
+| Lucca         | Attack     | Tank Head   |
+| Chrono        | Attack     | Tank Head   |
+| Lucca         | Attack     | Tank Head   |
+| Chrono        | Attack     | Tank Head   |
+| Lucca         | Attack     | Tank Head   |
+| Chrono        | Cyclone    | Dragon Tank |
+| Chrono, Lucca | Fire Whirl | Dragon Tank |
+| Chrono, Lucca | Fire Whirl | Dragon Tank |
+| Chrono        | Attack     | Dragon Tank |
+
+**GET**: Shelter from chest in first room  
+Guard text skip on final floor  
+Marle rejoins party  
+
+## 2300 AD
+
+### Lab 16
+
+**GET**: Berserker  
+Let a rat steal a tonic and run through the gap to skip a fight  
+**GET**: Lode Sword  
+**GET**: Lode Bow  
+Let a rat steal a tonic again to skip a fight  
+Exit the Lab  
+
+#### Equip
+
+|          | Chrono         | Marle        |
+| :-:      | :--            | :--          |
+| :hocho:  | **Lode Sword** | **Lode Bow** |
+| :tophat: | *Hide Cap*     | *Hide Cap*   |
+| :shirt:  | *Hide Tunic*   | *Hide Tunic* |
+| :ring:   | *PowerGlove*   | *Ribbon*     |
+
+**USE**: Shelter  
+Set Battle Gauge to 1  
+
+### Arris Dome
+
+Head down below  
+Head to the left door  
+Cross the rafters  
+
+#### Decisive Battle: *Guardian*
+
+| Characters    | Action     | Target    |
+| :--           | :--        | :--       |
+| Chrono, Lucca | Attack     | Bit 1     |
+| Lucca         | Flame Toss | Bit 1     |
+| Chrono, Lucca | Attack     | Bit 2     |
+| Lucca         | Flame Toss | Bit 2     |
+| Marle         | Attack     | Guardian  |
+| Lucca         | Attack     | Guardian  |
+| Chrono        | Attack     | Guardian  |
+
+> Lucca heal if someone is in danger  
+> Everyone heals themselves if Delta Attack is used  
+> You can 2-cycle if you crit on Guardian after killing the bits  
+
+Catch the rat  
+Press the switch in the first room and through the right door  
+Traverse the next two rooms  
+Learn about Lavos  
+Return to the surface  
+
+### Lab 32
+
+Don't touch the bike, go past it to activate the cutscene  
+Bike race (Boost at 20 REST)  
+
+### Proto Dome
+
+#### Battle: *Three Buggers*
+
+| Characters | Action | Target  |
+| :--        | :--    | :--     |
+| Chrono     | Attack | Buggers |
+| Lucca      | Attack | Buggers |
+| Marle      | Attack | Buggers |
+
+Robo joins the party  
+Marle leaves the party  
+Leave the Dome  
+
+**USE**: Shelter  
+
+### Factory
+
+Interact with the console  
+
+#### Battle: *Acid*
+
+| Characters | Action | Target |
+| :--        | :--    | :--    |
+| Chrono     | Attack | Acid   |
+| Robo       | Attack | Acid   |
+| Lucca      | Attack | Acid   |
+
+Use the right conveyer belt  
+Use the left elevator  
+
+#### Battle: *Acid and Two Alkalines*
+
+| Action   |
+| :--      |
+| Run away |
+
+Interact with the console  
+**GET**: Shelter from the same room  
+Down the bottom right ladder  
+
+Traverse through the halls to the center section  
+**GET**: Hammer Arm on the right  
+Interact with the console  
+
+#### Battle: *Two Acids and Three Alkalines*
+
+| Characters | Action      | Target      |
+| :--        | :--         | :--         |
+| Chrono     | Cyclone     | All enemies |
+| Robo       | RocketPunch | Alkalines   |
+| Lucca      | Attack      | Acids       |
+
+**GET**: Titan Vest from the left chest  
+Head down the bottom left ladder  
+**GET**: Plasma Gun from the chest next to the console  
+Interact with the console  
+
+#### Equip
+
+|          | Lucca          |
+| :-:      | :--            |
+| :hocho:  | **Plasma Gun** |
+| :tophat: | *Hide Cap*     |
+| :shirt:  | **Titan Vest** |
+| :ring:   | *Bandana*      |
+
+**USE**: Robo's Cure Beam on Chrono and Lucca  
+Set Battle Gauge to 2  
+
+Head through the door and interact with the center switch  
+Go back up the ladder  
+
+Traverse back through the hallways  
+Robo bully cutscene  
+
+#### Decisive Battle: *R Series*
+
+| Characters | Action  | Target       |
+| :--        | :--     | :--          |
+| Chrono     | Cyclone | Front row    |
+| Lucca      | Attack  | Bottom robot |
+| Chrono     | Cyclone | Back row     |
+| Lucca      | Attack  | Bottom robot |
+| Chrono     | Cyclone | Back row     |
+| Chrono     | Cyclone | Front row    |
+
+Cutscenes, head to End of Time  
+
+## The End of Time
+
+Heal at the bucket  
+Talk to the Old Man  
+Leave Robo  
+Go talk to Spekkio  
+Walk around the room 3 times  
+Travel to Medina Village, 1000 AD (top right)  
+
+## 1000 AD
+
+### Medina Village
+
+Leave and head to the house to the north  
+**GET**: Speed Tab by interacting with the left of the counter  
+Go upstairs  
+**GET**: Magic Tab by interacting with the lower part of the desk, right of the book  
+Leave and head west to Melchior's house  
+
+#### Shop
+
+| Action  | Item       |  Cost |    Amount | Total |
+| :--     | :--        |   --: |       --: |   --: |
+| **Buy** | Red Katana | 4500G |         1 | 4500G |
+| **Buy** | Mid Tonic  |  100G |         6 |  600G |
+|         |            |       | **Total** | 5100G |
+
+Go downstairs then upstairs to skip some text from Melchior  
+Head to the mountain  
+
+### Heckran Cave
+
+#### Battle: *Two Hench*
+
+| Characters | Action      | Target      |
+| :--        | :--         | :--         |
+| Chrono     | Slash       | Left Hench  |
+| Lucca      | Flame Toss  | Right Hench |
+
+**GET**: Ether from the chest to the right after the ladder  
+
+#### Battle: *Jinn Bottle and Three Octoblush*
+
+| Action   |
+| :--      |
+| Run away |
+
+**GET**: Mid Ether from the chest in the next room
+
+#### Battle: *Four Tempurite*
+
+| Action   |
+| :--      |
+| Run away |
+
+#### Battle: *Four Rolypoly*
+
+| Action   |
+| :--      |
+| Run away |
+
+#### Equip
+
+|          | Chrono         |
+| :-:      | :--            |
+| :hocho:  | **Red Katana** |
+| :tophat: | *Hide Cap*     |
+| :shirt:  | *Hide Tunic*   |
+| :ring:   | *PowerGlove*   |
+
+**USE**: Magic Tab on Lucca
+**USE**: Speed Tab on Lucca
+
+#### Decisive Battle: *Heckran*
+
+| Characters   | Action    | Target  |
+| :--          | :--       | :--     |
+| Chrono       | Lightning | Heckran |
+| Lucca, Marle | Antipode  | Heckran |
+| Chrono       | Lightning | Heckran |
+| Lucca, Marle | Antipode  | Heckran |
+| Chrono       | Slash     | Heckran |
+| Lucca, Marle | Antipode  | Heckran |
+
+> Repeat Slash and Antipode until battle ends  
+> Wait for counterattack to end  
+> Heal as needed  
+
+Hop into the pool and into Lucca's House  
+
+### Lucca's House
+
+Head upstairs to the right  
+Wait for the dialogue to start then leave  
+**GET**: Taban Vest from Taban  
+Head to Leene Square  
+
+### Leene Square
+
+Grab the "tastes like chicken" snack on the left to heal 
+
+#### Decisive Battle: *Gato*
+
+| Characters   | Action | Target |
+| :--          | :--    | :--    |
+| Chrono       | Attack | Gato   |
+
+Leave, and fight again three times for a total of 45 Silver Points  
+Head to the teleporters to the End of Time
+
+## The End of Time
+
+Travel to Truce Canyon, 600 AD (top left)  
+
+## 600 AD
+
+### Truce Canyon
+
+Bird skip again  
+Head south to Zenan Bridge  
+
+### Zenan Bridge
+
+Talk to the Captain about ration shortages  
+
+### Guardia Castle
+
+Head right and down the stairs  
+Talk to the chef and leave  
+
+### Zenan Bridge
+
+Give the Captain the rations  
+
+#### Battle: *Ozzie and the Deceased*
+
+| Characters | Action | Target |
+| :--        | :--    | :--    |
+| Chrono     | Attack | Ozzie  |
+| Marle      | Attack | Ozzie  |
+| Lucca      | Attack | Ozzie  |
+
+#### Menus
+
+|          | Chrono         | Lucca          |
+| :-:      | :--            | :--            |
+| :hocho:  | *Red Katana*   | *Plasma Gun*   |
+| :tophat: | *Hide Cap*     | *Hide Cap*     |
+| :shirt:  | *Hide Tunic*   | **Taban Vest** |
+| :ring:   | **Berserker**  | *Bandana*      |
+
+**USE**: Marle's Aura on everyone  
+Set Battle Gauge to 1  
+
+#### Decisive Battle: *Zombor*
+
+| Characters   | Action   | Target      |
+| :--          | :--      | :--         |
+| Lucca, Marle | Antipode | Zombor      |
+| Lucca        | Fire     | Zombor Legs |
+| Marle        | Attack   | Zombor Legs |
+
+> Chrono will constantly attack with Berserker  
+> Repeat Antipode with Lucca and Marle until the torso dies
+> Use Lucca's Fire on the legs after the torso dies  
+
+Head to the market on the western part of the town  
+
+#### Shop 
+
+| Action   | Item            |  Cost |    Amount |  Total |
+| :--      | :--             |   --: |       --: |    --: |
+| **Sell** | All Mid Ethers  |     - |         - |      - |
+| **Sell** | All Ethers      |     - |         - |      - |
+| **Sell** | Lode Sword      | 2000G |         1 | -2000G |
+| **Sell** | Hammer Arm      | 1750G |         1 | -1750G |
+| **Sell** | Wood Sword      |   50G |         1 |   -50G |
+| **Sell** | SteelSaber      |  400G |         1 |  -400G |
+| **Sell** | Bronze Bow      |   40G |         1 |   -40G |
+| **Sell** | BronzeEdge      |  175G |         1 |  -175G |
+|          |                 |       | **Total** | -9515G |
+| **Buy**  | Shelter         |  150G |        11 |  1650G |
+| **Buy**  | Revive          |  200G |        21 |  4200G |
+| **Buy**  | Heal            |   10G |        11 |   110G |
+| **Buy**  | Mid Tonic       |  100G |        55 |  5500G |
+|          |                 |       | **Total** | 11460G |
