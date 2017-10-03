@@ -605,7 +605,7 @@ Head to the market on the western part of the town
 ### Denadoro Mountains
 
 Head straight through the first area  
-**GET**: MirageHand from the chest immediately to the left 
+**GET**: MirageHand from the chest immediately to the left  
 **SWAP**: Marle with Robo  
 
 #### Equip
@@ -809,6 +809,8 @@ Head back to the End of Time
 ## The End of Time
 
 Travel to Truce Canyon (600 AD)
+
+## 600 AD
 
 ### Truce Canyon
 
