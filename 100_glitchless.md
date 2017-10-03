@@ -228,7 +228,7 @@ Go top right to the bridge
 | Chrono     | Cylcone | Guard 2 |
 
 Knock out the guard in the next room  
-**GET**: Mid Tonic from the guard
+**GET**: Mid Tonic from the guard  
 Head up then left  
 Knock out the guard by the door  
 **GET**: Mid Tonic from the guard  
@@ -485,7 +485,7 @@ Head to the mountain
 | :shirt:  | *Hide Tunic*   |
 | :ring:   | *PowerGlove*   |
 
-**USE**: Magic Tab on Lucca
+**USE**: Magic Tab on Lucca  
 **USE**: Speed Tab on Lucca
 
 #### Decisive Battle: *Heckran*
@@ -601,3 +601,235 @@ Head to the market on the western part of the town
 | **Buy**  | Heal            |   10G |        11 |   110G |
 | **Buy**  | Mid Tonic       |  100G |        55 |  5500G |
 |          |                 |       | **Total** | 11460G |
+
+### Denadoro Mountains
+
+Head straight through the first area  
+**GET**: MirageHand from the chest immediately to the left 
+**SWAP**: Marle with Robo  
+
+#### Equip
+
+|          | Chrono         | Robo           |
+| :-:      | :--            | :--            |
+| :hocho:  | *Red Katana*   | **MirageHand** |
+| :tophat: | *Hide Cap*     | *Iron Helm*    |
+| :shirt:  | *Hide Tunic*   | *Titan Vest*   |
+| :ring:   | **PowerGlove** | *Defender*     |
+
+Head to the left  
+
+#### Battle: *Goblin and Ogan*
+
+| Characters | Action     | Target |
+| :--        | :--        | :--    |
+| Chrono     | Attack     | Goblin |
+| Lucca      | Flame Toss | Ogan   |
+| Chrono     | Attack     | Ogan   |
+
+Head straight forward through the next room  
+
+#### Battle: *Goblin and Ogan*
+
+| Action   |
+| :--      |
+| Run away |
+
+Traverse the next few rooms  
+**GET**: Mid Ether from the chest on your right  
+In the river area, jump down the waterfall to the south  
+**GET**: SilverStud in the chest  
+**GET**: SilverErng in the chest shortly after  
+Touch the **SAVE**  
+
+#### Menus
+
+**USE**: Shelter  
+**USE**: Power Tab on Chrono  
+
+**GET**: Speed Tab to the left of the ladder  
+Head into the cave and interact with Masamune  
+
+#### Decisive Battle: *Masa and Mune, Phase 1*
+
+| Characters  | Action     | Target        |
+| :--         | :--        | :--           |
+| Lucca       | Hypno Wave | Masa and Mune |
+| Chrono      | Attack     | Masa          |
+| Robo        | Attack     | Masa          |
+| Chrono      | Attack     | Masa          |
+| Lucca, Robo | Fire Punch | Masa          |
+| Chrono      | Attack     | Masa          |
+| Lucca, Robo | Fire Punch | Masa          |
+
+#### Decisive Battle: *Masa and Mune, Phase 2*
+
+| Characters  | Action     | Target        |
+| :--         | :--        | :--           |
+| Chrono      | Attack     | Masa and Mune |
+| Lucca, Robo | Fire Punch | Masa and Mune |
+
+> Repeat until battle ends  
+> Heal as needed  
+> Use Slash to neutralize tornado energy  
+
+Get the Broken Masamune and leave  
+
+### Tata's House
+
+Head south to Tata's House  
+Talk to Tata and leave  
+
+### Cursed Woods
+
+Head north into the bush  
+Speak to Frog  
+Get the Masamune hilt and leave  
+Head out and back to Truce Canyon  
+
+## The End of Time
+
+Travel to Medina Village (1000 AD)  
+
+## 1000 AD
+
+### Melchior's House
+
+Eat the pie to recover HP and MP  
+Head west to Melchior's House leave the Masamune with him  
+Head back to the End of Time
+
+## The End of Time
+
+Travel to Mystic Mountain (65000000 BC)
+
+## 65000000 BC
+
+### Mystic Mountain
+
+#### Battle: *Reptites*
+
+| Characters | Action     | Target      |
+| :--        | :--        | :--         |
+| Robo       | Laser Spin | All enemies |
+
+**GET**: Berserker from the chest on the left in the next room
+
+#### Battle: *Four Runners and Two Kilwalas*
+
+| Action   |
+| :--      |
+| Run away |
+
+Exit Mystic Mountain  
+Head east across the bridge into the Cheif's Hut on the left  
+Talk to Robo then Ayla at the party  
+Mash A to eat  
+Talk to Ayla again  
+Ayla joins the party  
+**SWAP**: Lucca with Ayla  
+
+Head south to the Forest Maze
+
+### Forest Maze
+
+Talk to Kino  
+Traverse the area  
+Enter the Reptite Lair  
+
+### Reptite Lair
+
+Down the first hole  
+
+#### Battle: *Two Evilweevils*
+
+| Characters   | Action      | Target       |
+| :--          | :--         | :--          |
+| Chrono, Robo | Rocket Roll | Both enemies |
+
+Down the second hole  
+
+#### Battle: *Megasaur*
+
+| Characters | Action    | Target   |
+| :--        | :--       | :--      |
+| Chrono     | Lightning | Megasaur |
+| Ayla       | Attack    | Megasaur |
+| Robo       | Attack    | Megasaur |
+| Chrono     | Attack    | Megasaur |
+
+Down the third hole  
+
+#### Battle: *Megasaur and Two Reptites*
+
+| Action   |
+| :--      |
+| Run away |
+
+Touch the **SAVE**
+
+#### Equip
+
+|          | Ayla          | Robo          | Chrono         |
+| :-:      | :--           | :--           | :--            |
+| :hocho:  | *Fist*        | *MirageHand*  | *Red Katana*   |
+| :tophat: | *Rock Helm*   | *Iron Helm*   | *Hide Cap*     |
+| :shirt:  | **Karate Gi** | *Titan Vest*  | **Ruby Vest**  |
+| :ring:   | **Berserker** | **Berserker** | **SilverErng** | 
+
+**USE**: Shelter  
+
+Head up the stairs to Azala  
+Say "Yes"  
+
+#### Decisive Battle: *Nizbel*
+
+| Characters | Action    | Target |
+| :--        | :--       | :--    |
+| Chrono     | Lightning | Nizbel |
+| Chrono     | Attack    | Nizbel |
+
+> Use Lightning again when Nizbel releases electrocution energy  
+> Chrono uses Tonic on Ayla afterwards  
+> If you crit with Ayla twice, you will two cycle  
+
+Head back to Mystic Mountain to return to the End of Time
+
+## The End of Time
+
+Travel to Medina Village (1000 AD)
+
+## 1000 AD
+
+### Melchior's House
+
+Watch Melchior fix the Masamune  
+Head back to the End of Time  
+
+## The End of Time
+
+Travel to Truce Canyon (600 AD)
+
+### Truce Canyon
+
+Bird Skip again  
+Head out and to the Cursed Woods
+
+### Cursed Woods
+
+Give Frog the Masamune  
+Cutscenes  
+**SWAP**: Lucca with Frog  
+Leave the woods and head east to the Magic Cave
+
+### Magic Cave
+
+Cutscenes  
+
+#### Battle: *Vamp and Two Gremlins*
+
+| Action   |
+| :--      |
+| Run away |
+
+### Magus's Lair
