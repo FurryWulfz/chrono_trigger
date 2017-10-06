@@ -1,6 +1,6 @@
 # Chrono Trigger 100% (All Quests) Glitchless
 
-Timing is from naming Crono to the start of Lavos Core's death animation.  100% is defined as completing all sidequests given by the Guru of Time (after getting the winged Epoch), then finishing the game.
+Timing is from naming Chrono to the start of Lavos Core's death animation.  100% is defined as completing all sidequests given by the Guru of Time (after getting the winged Epoch), then finishing the game.
 
 Remove all saves before starting the game (Start+Select on Controller 2), or hold Up/Down and mash to choose New Game (4-frame window)  
 Battle Mode on Wait  
@@ -215,7 +215,7 @@ Bang on the gate three times
 
 | Characters | Action  | Target |
 | :--        | :--     | :--    |
-| Chrono     | Cylcone | Guard  |
+| Chrono     | Cyclone | Guard  |
 
 Slide down the middle of the shield guards  
 Go top right to the bridge  
@@ -224,8 +224,8 @@ Go top right to the bridge
 
 | Characters | Action  | Target  |
 | :--        | :--     | :--     |
-| Chrono     | Cylcone | Guard 1 |
-| Chrono     | Cylcone | Guard 2 |
+| Chrono     | Cyclone | Guard 1 |
+| Chrono     | Cyclone | Guard 2 |
 
 Knock out the guard in the next room  
 **GET**: Mid Tonic from the guard  
@@ -241,7 +241,7 @@ Head up right
 
 | Characters | Action  | Target      |
 | :--        | :--     | :--         |
-| Chrono     | Cylcone | Both Guards |
+| Chrono     | Cyclone | Both Guards |
 
 Lucca joins party  
 **GET**: 5x Mid Tonic from the Supervisor  
@@ -249,7 +249,7 @@ Head outside
 
 #### Menus
 
-Change Battle Guage to 1  
+Change Battle Gauge to 1  
 
 #### Decisive Battle: *Dragon Tank*
 
@@ -354,7 +354,7 @@ Interact with the console
 | Robo       | Attack | Acid   |
 | Lucca      | Attack | Acid   |
 
-Use the right conveyer belt  
+Use the right conveyor belt  
 Use the left elevator  
 
 #### Battle: *Acid and Two Alkalines*
@@ -722,7 +722,7 @@ Travel to Mystic Mountain (65000000 BC)
 | Run away |
 
 Exit Mystic Mountain  
-Head east across the bridge into the Cheif's Hut on the left  
+Head east across the bridge into the Chief's Hut on the left  
 Talk to Robo then Ayla at the party  
 Mash A to eat  
 Talk to Ayla again  
@@ -835,3 +835,183 @@ Cutscenes
 | Run away |
 
 ### Magus's Lair
+
+Go up the right-hand staircase  
+**GET**: Mid Ether from the chest on the left side in the Princess room  
+Enter the room with the throne and head backwards  
+Go up the left staircase  
+Enter the last room and leave  
+Touch the fake save point  
+
+#### Battle: *Four Hench and Two Vamps*
+
+| Characters | Action     | Target           |
+| :--        | :--        | :--              |
+| Chrono     | Cyclone    | Bottom two Hench |
+| Frog       | Attack     | Left Hench       |
+| Robo       | Laser Spin | All Enemies      |
+| Chrono     | Attack     | Right Hench      |
+
+Go back up the right side  
+Talk to the kid, answer "Yes"  
+
+#### Battle: *Four Shadows*
+
+| Characters | Action | Target      |
+| :--        | :--    | :--         |
+| Chrono     | Slash  | All Shadows |
+
+**GET**: Barrier from the chest  
+
+#### Equip
+
+|          | Frog          |
+| :-:      | :--           |
+| :hocho:  | *Masamune*    |
+| :tophat: | *BronzeHelm*  |
+| :shirt:  | *BronzeMail*  |
+| :ring:   | **Berserker** |
+
+#### Battle: *Flea?*
+
+> Frog attacks, MP Buster is used and Flea? dies
+
+#### Decisive Battle: *Flea*
+
+| Characters | Action | Target |
+| :--        | :--    | :--    |
+| Chrono     | Attack | Flea   |
+| Robo       | Attack | Flea   |
+
+> Use a Heal when anyone is hit by a status ailment  
+> Heal as needed  
+
+Leave and head up the left side  
+**GET**: Mid Ether from the chest on the right  
+
+#### Battle: *Five Decedents*
+
+| Characters | Action | Target   |
+| :--        | :--    | :--      |
+| Chrono     | Attack | Decedent |
+| Robo       | Attack | Decedent |
+
+#### Menus
+
+**USE**: Robo's Cure Beam on anyone who is not at full HP  
+
+#### Decisive Battle: *Slash*
+
+| Characters | Action | Target |
+| :--        | :--    | :--    |
+| Chrono     | Attack | Slash  |
+| Robo       | Attack | Slash  |
+
+> Heal as needed  
+
+**GET**: Slasher  
+Touch the **SAVE**  
+**SWAP**: Robo with Lucca  
+
+#### Equip
+
+|          | Chrono         | Frog           |
+| :-:      | :--            | :--            |
+| :hocho:  | **Slasher**    | *Masamune*     |
+| :tophat: | *Hide Cap*     | *BronzeHelm*   |
+| :shirt:  | *Ruby Vest*    | *BronzeMail*   |
+| :ring:   | **PowerGlove** | **PowerScarf** |
+
+**USE**: Shelter  
+**USE**: Speed Tab on Lucca  
+Head back to the entrance and touch the fake SAVE  
+
+#### Battle: *Two Hench*
+
+| Action   |
+| :--      |
+| Run away |
+
+#### Battle: *Two Hench and Two Grimalkin*
+
+| Characters | Action    | Target          |
+| :--        | :--       | :--             |
+| Chrono     | Attack    | Left Grimalkin  |
+| Frog       | Slurp Cut | Right Hench     |
+| Chrono     | Attack    | Right Grimalkin |
+| Frog       | Slurp Cut | Left Hench      |
+
+#### Battle: *Two Hench and Two Sorcerers*
+
+| Action   |
+| :--      |
+| Run away |
+
+#### Battle: *Two Hench, Two Grimalkin, and Two Sorcerers*
+
+| Action   |
+| :--      |
+| Run away |
+
+**GET**: Mist Robe from the chest before the door  
+**GET**: Dark Mail from the chest after the second conveyor belt  
+Traverse the next few moves  
+
+#### Battle: *Two Outlaws and Two Groupies*
+
+| Characters | Action     | Target        |
+| :--        | :--        | :--           |
+| Chrono     | Attack     | Left Outlaw   |
+| Lucca      | Flame Toss | Right Groupie |
+| Frog       | Slurp Cut  | Right Outlaw  |
+| Chrono     | Attack     | Left Outlaw   |
+| Lucca      | Flame Toss | Left Groupie  |
+
+#### Battle: *Two Outlaws and Two Jugglers*
+
+| Action   |
+| :--      |
+| Run away |
+
+#### Battle: *Four Jugglers*
+
+| Characters   | Action     | Target                    |
+| :--          | :--        | :--                       |
+| Chrono       | Slash      | Top Left Juggler          |
+| Lucca        | Hypno Wave | Bottom and Right Jugglers |
+| Chrono, Frog | X Strike   | Each Juggler              |
+
+**GET**: Speed Belt before the door  
+Traverse the next two rooms  
+
+#### Decisive Battle: *Ozzie*
+
+| Characters | Action | Target     |
+| :--        | :--    | :--        |
+| Chrono     | Attack | Each chain |
+
+Touch the **SAVE** on the right  
+
+#### Equip
+
+|          | Chrono         | Frog          | Lucca          |
+| :-:      | :--            | :--           | :--            |
+| :hocho:  | *Slasher*      | *Masamune*    | *Plasma Gun*   |
+| :tophat: | *Hide Cap*     | *BronzeHelm*  | *Hide Cap*     |
+| :shirt:  | *Ruby Vest*    | **Dark Mail** | *Taban Vest*   |
+| :ring:   | **SliverErng** | **Berserker** | **Speed Belt** |
+
+**USE**: Shelter  
+Touch the left SAVE to warp out  
+
+#### Decisive Battle: *Magus*  
+
+| Characters    | Action     | Target                         |
+| :--           | :--        | :--                            |
+| Chrono        | Lightning  | Magus, Lightning Barrier       |
+| Chrono, Lucca | Fire Sword | Magus, Fire Barrier or Phase 2 |
+
+> Tonic and Revive as needed, prioritize Lucca over Frog  
+> Use Barrier on Frog on Phase 2  
+
+## 65000000 BC
