@@ -1015,3 +1015,152 @@ Touch the left SAVE to warp out
 > Use Barrier on Frog on Phase 2  
 
 ## 65000000 BC
+
+Head north to Laruba Ruins  
+Cutscenes  
+Follow Ayla out north to Dactyl's Nest  
+
+### Dactyl's Nest
+
+#### Battle: *Cave Ape and Two Shists*
+
+| Action   |
+| :--      |
+| Run away |
+
+#### Battle: *Two Avian Rex*
+
+| Action   |
+| :--      |
+| Run away |
+
+**GET**: Mid Ether from chest on the right  
+Skip the Shist by the cliff using pause buffering  
+**SWAP**: Frog with Ayla  
+Get carried off by the Dactyls and fly east to Tyrano Lair  
+
+### Tyrano Lair
+
+#### Equip
+
+|          | Ayla           |
+| :-:      | :--            |
+| :hocho:  | *Fist*         |
+| :tophat: | *Rock Helm*    |
+| :shirt:  | **Mist Robe**  |
+| :ring:   | **PowerScarf** |
+
+Go through the right side  
+
+#### Battle: *Two Reptites*
+
+| Action   |
+| :--      |
+| Run away |
+
+#### Battle: *Two Reptites*
+
+| Action   |
+| :--      |
+| Run away |
+
+#### Battle: *Three Reptites*
+
+| Action   |
+| :--      |
+| Run away |
+
+Cutscenes with Kino  
+Back to the entrance  
+Go through the left side  
+Traverse the next few rooms  
+Hit the right switch  
+
+#### Battle: *Reptite and Two Volcanoes*
+
+| Characters | Action  | Target      |
+| :--        | :--     | :--         |
+| Chrono     | Cyclone | All enemies |
+| Ayla       | Attack  | Reptite     |
+
+Enter the room and leave to fight again for a total of 7 times  
+Pass the Nizbel blocking the entrance  
+Touch the **SAVE**  
+
+#### Equip
+
+|          | Chrono         | Lucca          |
+| :-:      | :--            | :--            |
+| :hocho:  | *Slasher*      | *Plasma Gun*   |
+| :tophat: | *Hide Cap*     | *Hide Cap*     |
+| :shirt:  | *Ruby Vest*    | *Taban Vest*   |
+| :ring:   | **Speed Belt** | **SilverErng** |
+
+**USE**: Shelter  
+Set Battle Gauge to 2  
+
+#### Decisive Battle: *Nizbel II*  
+
+| Characters   | Action    | Target    |
+| :--          | :--       | :--       |
+| Chrono, Ayla | Volt Bite | Nizbel II |
+
+> Keep everyone healed for when Nizbel II releases electric energy  
+
+Go to the rightmost tower on the roof  
+Hit the center switch  
+Touch the **SAVE**
+
+#### Equip
+
+|          | Chrono         | Lucca          |
+| :-:      | :--            | :--            |
+| :hocho:  | *Slasher*      | *Plasma Gun*   |
+| :tophat: | *Hide Cap*     | *Hide Cap*     |
+| :shirt:  | *Ruby Vest*    | *Taban Vest*   |
+| :ring:   | **PowerGlove** | **Speed Belt** |
+
+**USE**: Shelter  
+Set Battle Gauge to 1
+
+**GET**: Full Ether from the chest on the right before the switch  
+Head up the middle tower  
+Traverse the center tower  
+
+#### Decisive Battle: *Azala and Black Tyrano*  
+
+| Characters    | Action                                      | Target       |
+| :--           | :--                                         | :--          |
+| Lucca         | Hypno Wave                                  | All enemies  |
+|               | Wait for Black Tyrano to lower it's defense |              |
+| Chrono, Lucca | Fire Sword                                  | Black Tyrano |
+| Ayla          | Cat Attack                                  | Black Tyrano |
+
+> If Ayla's last Cat Attack doesn't hit before Black Tyrano's attack, use Ayla and Lucca's Flame Kick to make up for the damage lost
+
+### Lair Ruins  
+
+Use the Gate  
+
+## 12000 BC
+
+Traverse the Skyways and caves  
+
+### Zeal Palace
+
+Head into the rightmost corridor, then right again  
+Schala cutscene  
+Head back and through the center corridor  
+Schala cutscene, back and through the left corridor  
+Medallion cutscene, back through the center corridor  
+**USE**: Ether on Chrono  
+
+#### Decisive Battle: *Golem*  
+
+| Characters | Action     | Target    |
+| :--        | :--        | :--       |
+| Chrono     | Lightning  | Golem     |
+
+Die, cutscenes  
+
+## 2300 AD
