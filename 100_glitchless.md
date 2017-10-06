@@ -303,9 +303,9 @@ Cross the rafters
 
 | Characters    | Action     | Target    |
 | :--           | :--        | :--       |
-| Chrono, Lucca | Attack     | Bit 1     |
+| Chrono, Marle | Attack     | Bit 1     |
 | Lucca         | Flame Toss | Bit 1     |
-| Chrono, Lucca | Attack     | Bit 2     |
+| Chrono, Marle | Attack     | Bit 2     |
 | Lucca         | Flame Toss | Bit 2     |
 | Marle         | Attack     | Guardian  |
 | Lucca         | Attack     | Guardian  |
@@ -382,7 +382,7 @@ Interact with the console
 **GET**: Titan Vest from the left chest  
 Head down the bottom left ladder  
 **GET**: Plasma Gun from the chest next to the console  
-Interact with the console  
+Interact with the console (Password: XABY)  
 
 #### Equip
 
@@ -617,7 +617,7 @@ Head straight through the first area
 | :shirt:  | *Hide Tunic*   | *Titan Vest*   |
 | :ring:   | **PowerGlove** | *Defender*     |
 
-Head to the left  
+Head back and to the left  
 
 #### Battle: *Goblin and Ogan*
 
@@ -684,7 +684,7 @@ Talk to Tata and leave
 
 Head north into the bush  
 Speak to Frog  
-Get the Masamune hilt and leave  
+Get the Masamune hilt from the left of Frog's bed and leave  
 Head out and back to Truce Canyon  
 
 ## The End of Time
@@ -695,7 +695,7 @@ Travel to Medina Village (1000 AD)
 
 ### Melchior's House
 
-Eat the pie to recover HP and MP  
+Eat the pie to recover HP and MP in the residence  
 Head west to Melchior's House leave the Masamune with him  
 Head back to the End of Time
 
@@ -823,6 +823,15 @@ Give Frog the Masamune
 Cutscenes  
 **SWAP**: Lucca with Frog  
 Leave the woods and head east to the Magic Cave
+
+#### Equip
+
+|          | Robo           | 
+| :-:      | :--            |
+| :hocho:  | *MirageHand*   |
+| :tophat: | *Iron Helm*    |
+| :shirt:  | *Titan Vest*   |
+| :ring:   | **PowerGlove** |
 
 ### Magic Cave
 
