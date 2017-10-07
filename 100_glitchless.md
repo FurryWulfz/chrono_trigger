@@ -165,6 +165,10 @@ Touch the **SAVE**
 
 #### Decisive Battle: *Yakra*
 
+| Enemy |  HP | Exp |  TP | Gold |
+| :--   | --: | --: | --: |  --: |
+| Yakra | 920 |  50 |   5 | 600G |
+
 | Characters   | Action                                | Target |
 | :--          | :--                                   | :--    |
 |              | Wait for Yakra to move closer to Frog |        |
@@ -253,6 +257,12 @@ Change Battle Gauge to 1
 
 #### Decisive Battle: *Dragon Tank*
 
+| Enemy |  HP | Exp |  TP | Gold |
+| :--   | --: | --: | --: |  --: |
+| Body  | 266 |  40 |   5 | 500G |
+| Head  | 600 |     |     |      |
+| Wheel | 208 |     |     |      |
+
 | Characters    | Action     | Target      |
 | :--           | :--        | :--         |
 | Chrono        | Attack     | Tank Head   |
@@ -301,12 +311,17 @@ Cross the rafters
 
 #### Decisive Battle: *Guardian*
 
+| Enemy    |   HP | Exp |  TP |  Gold |
+| :--      |  --: | --: | --: |   --: |
+| Guardian | 1200 | 300 |   5 | 1000G |
+| Pod      |  200 |     |     |       |
+
 | Characters    | Action     | Target    |
 | :--           | :--        | :--       |
-| Chrono, Marle | Attack     | Bit 1     |
-| Lucca         | Flame Toss | Bit 1     |
-| Chrono, Marle | Attack     | Bit 2     |
-| Lucca         | Flame Toss | Bit 2     |
+| Chrono, Marle | Attack     | Pod 1     |
+| Lucca         | Flame Toss | Pod 1     |
+| Chrono, Marle | Attack     | Pod 2     |
+| Lucca         | Flame Toss | Pod 2     |
 | Marle         | Attack     | Guardian  |
 | Lucca         | Attack     | Guardian  |
 | Chrono        | Attack     | Guardian  |
@@ -404,6 +419,10 @@ Robo bully cutscene
 
 #### Decisive Battle: *R Series*
 
+| Enemy    |  HP | Exp |  TP |  Gold |
+| :--      | --: | --: | --: |   --: |
+| R Series | 150 |  80 |   1 |  100G |
+
 | Characters | Action  | Target       |
 | :--        | :--     | :--          |
 | Chrono     | Cyclone | Front row    |
@@ -490,6 +509,10 @@ Head to the mountain
 
 #### Decisive Battle: *Heckran*
 
+| Enemy   |   HP | Exp |  TP |  Gold |
+| :--     |  --: | --: | --: |   --: |
+| Heckran | 2100 | 250 |  10 | 1500G |
+
 | Characters   | Action    | Target  |
 | :--          | :--       | :--     |
 | Chrono       | Lightning | Heckran |
@@ -516,7 +539,7 @@ Head to Leene Square
 
 Grab the "tastes like chicken" snack on the left to heal 
 
-#### Decisive Battle: *Gato*
+#### Battle: *Gato*
 
 | Characters   | Action | Target |
 | :--          | :--    | :--    |
@@ -570,6 +593,11 @@ Give the Captain the rations
 Set Battle Gauge to 1  
 
 #### Decisive Battle: *Zombor*
+
+| Enemy      |  HP | Exp |  TP |  Gold |
+| :--        | --: | --: | --: |   --: |
+| Lower Body | 800 | 350 |  10 | 1500G |
+| Upper Body | 960 |     |     |       |
 
 | Characters   | Action   | Target      |
 | :--          | :--      | :--         |
@@ -652,6 +680,11 @@ Head into the cave and interact with Masamune
 
 #### Decisive Battle: *Masa and Mune, Phase 1*
 
+| Enemy |   HP | Exp |  TP | Gold |
+| :--   |  --: | --: | --: |  --: |
+| Masa  | 1000 | 200 |   2 | 200G |
+| Mune  | 1000 | 200 |   2 | 200G |
+
 | Characters  | Action     | Target        |
 | :--         | :--        | :--           |
 | Lucca       | Hypno Wave | Masa and Mune |
@@ -663,6 +696,10 @@ Head into the cave and interact with Masamune
 | Lucca, Robo | Fire Punch | Masa          |
 
 #### Decisive Battle: *Masa and Mune, Phase 2*
+
+| Enemy         |   HP | Exp |  TP |  Gold |
+| :--           |  --: | --: | --: |   --: |
+| Masa and Mune | 3600 | 500 |  10 | 1500G |
 
 | Characters  | Action     | Target        |
 | :--         | :--        | :--           |
@@ -784,6 +821,10 @@ Say "Yes"
 
 #### Decisive Battle: *Nizbel*
 
+| Enemy  |   HP | Exp |  TP | Gold |
+| :--    |  --: | --: | --: |  --: |
+| Nizbel | 4200 | 500 |  10 |   0G |
+
 | Characters | Action    | Target |
 | :--        | :--       | :--    |
 | Chrono     | Lightning | Nizbel |
@@ -887,6 +928,10 @@ Talk to the kid, answer "Yes"
 
 #### Decisive Battle: *Flea*
 
+| Enemy |   HP | Exp |  TP |  Gold |
+| :--   |  --: | --: | --: |   --: |
+| Flea  | 4120 | 500 |  10 | 1000G |
+
 | Characters | Action | Target |
 | :--        | :--    | :--    |
 | Chrono     | Attack | Flea   |
@@ -910,6 +955,10 @@ Leave and head up the left side
 **USE**: Robo's Cure Beam on anyone who is not at full HP  
 
 #### Decisive Battle: *Slash*
+
+| Enemy |   HP | Exp |  TP |  Gold |
+| :--   |  --: | --: | --: |   --: |
+| Slash | 5200 | 500 |  10 | 1500G |
 
 | Characters | Action | Target |
 | :--        | :--    | :--    |
@@ -1015,6 +1064,10 @@ Touch the left SAVE to warp out
 
 #### Decisive Battle: *Magus*  
 
+| Enemy |   HP |  Exp |  TP |  Gold |
+| :--   |  --: |  --: | --: |   --: |
+| Magus | 6666 | 1500 |  15 | 3000G |
+
 | Characters    | Action     | Target                         |
 | :--           | :--        | :--                            |
 | Chrono        | Lightning  | Magus, Lightning Barrier       |
@@ -1110,6 +1163,10 @@ Set Battle Gauge to 2
 
 #### Decisive Battle: *Nizbel II*  
 
+| Enemy     |   HP | Exp |  TP | Gold |
+| :--       |  --: | --: | --: |  --: |
+| Nizbel II | 4200 | 880 |  15 |   0G |
+
 | Characters   | Action    | Target    |
 | :--          | :--       | :--       |
 | Chrono, Ayla | Volt Bite | Nizbel II |
@@ -1137,6 +1194,11 @@ Head up the middle tower
 Traverse the center tower  
 
 #### Decisive Battle: *Azala and Black Tyrano*  
+
+| Enemy        |    HP |  Exp |  TP | Gold |
+| :--          |   --: |  --: | --: |  --: |
+| Azala        |  2700 | 1800 |  25 |   0G |
+| Black Tyrano | 10500 |      |     |      |
 
 | Characters    | Action                                      | Target       |
 | :--           | :--                                         | :--          |
@@ -1300,7 +1362,13 @@ Go into the next room
 | Chrono, Marle | Ice Sword  | Bottom Beast |
 | Lucca         | Napalm     | Both Beasts  |
 
-#### Decisive Battle: *Blue Beast, Red Beast, and Mud Imp*  
+#### Decisive Battle: *Blue Beast, Red Beast, and Mud Imp* 
+
+| Enemy      |   HP | Exp |  TP |  Gold |
+| :--        |  --: | --: | --: |   --: |
+| Blue Beast | 5000 | 954 |  22 | 2600G |
+| Red Beast  | 5000 |     |     |       |
+| Mud Imp    | 1200 |     |     |       |
 
 | Characters    | Action     | Target                 |
 | :--           | :--        | :--                    |
@@ -1431,6 +1499,10 @@ Continue through the next area
 
 #### Decisive Battle: *Giga Gaia*  
 
+| Enemy     |   HP |  Exp |  TP |  Gold |
+| :--       |  --: |  --: | --: |   --: |
+| Giga Gaia | 9500 | 3000 |  30 | 3000G |
+
 | Characters   | Action     | Target     |
 | :--          | :--        | :--        |
 | Chrono, Ayla | Falcon Hit | Both Hands |
@@ -1450,6 +1522,10 @@ Tell her to plant it
 Head up the center corridor  
 
 #### Decisive Battle: *Dalton*  
+
+| Enemy  |   HP |  Exp |  TP |  Gold |
+| :--    |  --: |  --: | --: |   --: |
+| Dalton | 3800 | 1000 |  30 | 2500G |
 
 | Characters   | Action     | Target |
 | :--          | :--        | :--    |
@@ -1533,6 +1609,10 @@ Touch the **SAVE**
 
 #### Decisive Battle: *Golem Twins*  
 
+| Enemy     HP |  Exp |  TP |  Gold |
+| :--   |  --: |  --: | --: |   --: |
+| Golem | 7000 | 1000 |  35 | 2500G |
+
 | Characters   | Action     | Target      |
 | :--          | :--        | :--         |
 | Lucca        | Fire       | Both Golems |
@@ -1602,6 +1682,10 @@ Go to the bottom left of the area
 Cutscenes  
 
 #### Decisive Battle: *Dalton Plus*  
+
+| Enemy       |   HP |  Exp |  TP |  Gold |
+| :--         |  --: |  --: | --: |   --: |
+| Dalton Plus | 3500 | 2500 |  40 | 2000G |
 
 | Characters  | Action      | Target      |
 | :--         | :--         | :--         |
@@ -1744,6 +1828,10 @@ Set Battle Gauge Speed to 3
 
 #### Decisive Battle: *Son of Sun*  
 
+| Enemy      |   HP |  Exp |  TP |  Gold |
+| :--        |  --: |  --: | --: |   --: |
+| Son of Sun | 2100 | 3800 |  40 | 2000G |
+
 | Characters  | Action     | Target     |
 | :--         | :--        | :--        |
 | Magus       | Barrier    | Ayla       |
@@ -1785,6 +1873,10 @@ Traverse the area
 
 #### Decisive Battle: *Lavos Spawn*  
 
+| Enemy       |   HP | Exp |   TP | Gold |
+| :--         |  --: | --: |  --: |  --: |
+| Lavos Spawn | 4000 | 747 |  120 | 500G |
+
 | Characters  | Action      | Target      |
 | :--         | :--         | :--         |
 | Ayla        | Cat Attack  | Lavos Spawn |
@@ -1797,6 +1889,10 @@ Go back and enter the cave you just opened
 
 #### Decisive Battle: *Lavos Spawn*  
 
+| Enemy       |   HP | Exp |   TP | Gold |
+| :--         |  --: | --: |  --: |  --: |
+| Lavos Spawn | 4000 | 747 |  120 | 500G |
+
 | Characters  | Action      | Target      |
 | :--         | :--         | :--         |
 | Ayla        | Cat Attack  | Lavos Spawn |
@@ -1806,6 +1902,10 @@ Go back and enter the cave you just opened
 Traverse the next few areas  
 
 #### Decisive Battle: *Lavos Spawn*  
+
+| Enemy       |   HP | Exp |   TP | Gold |
+| :--         |  --: | --: |  --: |  --: |
+| Lavos Spawn | 4000 | 747 |  120 | 500G |
 
 | Characters  | Action      | Target      |
 | :--         | :--         | :--         |
@@ -1974,6 +2074,10 @@ Cutscenes
 
 #### Decisive Battle: *Atropos XR*  
 
+| Enemy      |   HP | Exp |  TP | Gold |
+| :--        |  --: | --: | --: |  --: |
+| Atropos XR | 6000 |   0 |   0 |   0G |
+
 | Characters | Action     | Target     |
 | :--        | :--        | :--        |
 | Robo       | Uzzi Punch | Atropos XR |
@@ -2004,6 +2108,11 @@ Head left and up
 Put the two dolls on the switches  
 
 #### Decisive Battle: *Mother Brain and the Displays*  
+
+| Enemy        |   HP |  Exp |  TP |  Gold |
+| :--          |  --: |  --: | --: |   --: |
+| Mother Brain | 5000 | 3000 |  40 | 3000G |
+| Display      |    1 |      |     |       |
 
 | Characters | Action     | Target                       |
 | :--        | :--        | :--                          |
@@ -2111,6 +2220,10 @@ Traverse the prison
 
 #### Decisive Battle: *Rust Tyrano*  
 
+| Enemy       |    HP |  Exp |  TP |  Gold |
+| :--         |   --: |  --: | --: |   --: |
+| Rust Tyrano | 25000 | 3800 |  40 | 2000G |
+
 | Characters | Action  | Target      |
 | :--        | :--     | :--         |
 | Marle      | Haste   | Magus       |
@@ -2146,6 +2259,10 @@ Traverse the rest of the basement
 Head back to the Trial  
 
 #### Decisive Battle: *Yakra XIII*  
+
+| Enemy      |    HP |  Exp |  TP |  Gold |
+| :--        |   --: |  --: | --: |   --: |
+| Yakra XIII | 18000 | 3500 |  40 | 2000G |
 
 | Characters | Action  | Target     |
 | :--        | :--     | :--        |
@@ -2185,6 +2302,12 @@ Head south to the Sunken Desert
 
 #### Decisive Battle: *Retinite*  
 
+| Enemy      |   HP |  Exp |  TP |  Gold |
+| :--        |  --: |  --: | --: |   --: |
+| Core       | 1000 | 2600 | 100 | 2000G |
+| Upper Body | 5000 |      |     |       |
+| Lower Body | 4800 |      |     |       |
+
 | Characters | Action     | Target         |
 | :--        | :--        | :--            |
 | Magus      | Ice 2      | Retinite       |
@@ -2215,6 +2338,12 @@ Head back north east to Ozzie's Fort
 Traverse back to where you left off  
 
 #### Decisive Battle: *Great Ozzie, Super Slash, and Flea Plus*  
+
+| Enemy       |   HP |  Exp |  TP |  Gold |
+| :--         |  --: |  --: | --: |   --: |
+| Great Ozzie | 6000 | 7500 |  80 | 4000G |
+| Flea Plus   | 4000 |      |     |       |
+| Super SLash | 4000 |      |     |       |
 
 | Characters  | Action       | Target      |
 | :--         | :--          | :--         |
@@ -2266,6 +2395,11 @@ Use Epoch to fly to the Black Omen
 | Magus       | Ice 2  | All enemies |
 
 #### Decisive Battle: *Mega Mutant*  
+
+| Enemy      |   HP | Exp |  TP |  Gold |
+| :--        |  --: | --: | --: |   --: |
+| Upper Body | 4600 | 900 |  50 | 1500G |
+| Lower Body | 3850 |     |     |       |
 
 | Characters  | Action      | Target      |
 | :--         | :--         | :--         |
@@ -2397,6 +2531,11 @@ Touch the **SAVE**
 
 #### Decisive Battle: *Giga Mutant*  
 
+| Enemy      |   HP |  Exp |  TP |  Gold |
+| :--        |  --: |  --: | --: |   --: |
+| Upper Body | 5800 | 1500 |  80 | 2000G |
+| Lower Body | 4950 |      |     |       |
+
 | Characters  | Action      | Target      |
 | :--         | :--         | :--         |
 | Everyone    | Omega Flare | Giga Mutant |
@@ -2449,6 +2588,11 @@ Touch the **SAVE**
 
 #### Decisive Battle: *Terra Mutant*  
 
+| Enemy      |    HP |  Exp |  TP |  Gold |
+| :--        |   --: |  --: | --: |   --: |
+| Upper Body |  7800 | 2000 | 100 | 3800G |
+| Lower Body | 20000 |      |     |       |
+
 | Characters | Action              | Target       |
 | :--        | :--                 | :--          |
 |            | Wait for the absorb |              |
@@ -2461,6 +2605,10 @@ Touch the **SAVE**
 Set Battle Gauge Speed to 2  
 
 #### Decisive Battle: *Lavos Spawn*  
+
+| Enemy       |    HP |  Exp |  TP |  Gold |
+| :--         |   --: |  --: | --: |   --: |
+| Lavos Spawn | 10000 | 2450 | 120 | 2500G |
 
 | Characters | Action     | Target      |
 | :--        | :--        | :--         |
@@ -2482,6 +2630,10 @@ Set Battle Gauge Speed to 1
 
 #### Decisive Battle: *Zeal*  
 
+| Enemy  |    HP |  Exp |  TP |  Gold |
+| :--    |   --: |  --: | --: |   --: |
+| Zeal   | 12000 |    0 |   0 |    0G |
+
 | Characters | Action      | Target |
 | :--        | :--         | :--    |
 | Everyone   | Omega Flare | Zeal   |
@@ -2489,6 +2641,10 @@ Set Battle Gauge Speed to 1
 | Everyone   | Omega Flare | Zeal   |
 
 #### Decisive Battle: *Mammon Machine*  
+
+| Enemy          |    HP |  Exp |  TP |  Gold |
+| :--            |   --: |  --: | --: |   --: |
+| Mammon Machine | 18000 |    0 |   0 |    0G |
 
 | Characters | Action      | Target         |
 | :--        | :--         | :--            |
@@ -2500,6 +2656,12 @@ Set Battle Gauge Speed to 1
 | Everyone   | Omega Flare | Mammon Machine |
 
 #### Decisive Battle: *Zeal*  
+
+| Enemy     |    HP |  Exp |  TP |  Gold |
+| :--       |   --: |  --: | --: |   --: |
+| Zeal      | 20000 |    0 |   0 |    0G |
+| Right Arm | 28000 |      |     |       |
+| Left Arm  | 28000 |      |     |       |
 
 | Characters  | Action      | Target   |
 | :--         | :--         | :--      |
@@ -2593,6 +2755,10 @@ Set Battle Gauge Speed to 1
 **USE**: HyperEther on Lucca  
 **USE**: Full Tonic on everyone  
 
+| Enemy     |    HP |  Exp |  TP |  Gold |
+| :--       |   --: |  --: | --: |   --: |
+| Zeal      | 30000 |    0 |   0 |    0G |
+
 | Characters | Action      | Target |
 | :--        | :--         | :--    |
 | Magus      | Dark Bomb   | Lavos  |
@@ -2606,6 +2772,12 @@ Touch the **SAVE**
 Set Battle Gauge Speed to 3
 
 ### Final Battle: *Lavos*
+
+| Enemy     |    HP |  Exp |  TP |  Gold |
+| :--       |   --: |  --: | --: |   --: |
+| Lavos     | 20000 |    0 |   0 |    0G |
+| Right Arm |  8000 |      |     |       |
+| Left Arm  | 12000 |      |     |       |
 
 | Characters  | Action      | Target           |
 | :--         | :--         | :--              |
@@ -2626,25 +2798,31 @@ Set Battle Gauge Speed to 3
 
 ### Final Battle: *Lavos Core*
 
-| Characters  | Action      | Target   |
-| :--         | :--         | :--      |
-| Lucca       | MegaElixir  | Everyone |
-| Robo        | Uzzi Punch  | Left Bit |
-| Magus       | Shadow Bomb | Lavos    |
-| Everyone    | Omega Flare | Lavos    |
-| Everyone    | Omega Flare | Lavos    |
-| Everyone    | Omega Flare | Lavos    |
-| Robo        | Uzzi Punch  | Left Bit |
-| Magus       | Shadow Bomb | Lavos    |
-| Everyone    | Omega Flare | Lavos    |
-| Everyone    | Omega Flare | Lavos    |
-| Everyone    | Omega Flare | Lavos    |
-| Robo        | MegaElixir  | Everyone |
-| Everyone    | Omega Flare | Lavos    |
-| Everyone    | Omega Flare | Lavos    |
+| Enemy            |    HP |  Exp |  TP |  Gold |
+| :--              |   --: |  --: | --: |   --: |
+| Lavos Pod        |  2000 |    0 |   0 |    0G |
+| Lavos Center Pod | 10000 |      |     |       |
+| Lavos Core       | 30000 |      |     |       |
 
-The Left Bit will heal Lavos' center over time, so it should be killed immediately  
-The Center will Time Warp and attack based off of the time it's chosen:
+| Characters  | Action      | Target    |
+| :--         | :--         | :--       |
+| Lucca       | MegaElixir  | Everyone  |
+| Robo        | Uzzi Punch  | Lavos Pod |
+| Magus       | Shadow Bomb | Lavos     |
+| Everyone    | Omega Flare | Lavos     |
+| Everyone    | Omega Flare | Lavos     |
+| Everyone    | Omega Flare | Lavos     |
+| Robo        | Uzzi Punch  | Lavos Pod |
+| Magus       | Shadow Bomb | Lavos     |
+| Everyone    | Omega Flare | Lavos     |
+| Everyone    | Omega Flare | Lavos     |
+| Everyone    | Omega Flare | Lavos     |
+| Robo        | MegaElixir  | Everyone  |
+| Everyone    | Omega Flare | Lavos     |
+| Everyone    | Omega Flare | Lavos     |
+
+The Lavos Pod will heal Lavos' Center Pod over time, so it should be killed immediately  
+The Center Pod will Time Warp and attack based off of the time it's chosen:
 
 **65000000 BC:** *Grandstone / Ultimate Attack*  
 High physical damage  
