@@ -2671,9 +2671,11 @@ Set Battle Gauge Speed to 1
 > Revive and heal with Magus  
 > When Zeal is below half health she will use Hallation, followed by a move by the hands. It will use MP buster or an attack, which you will need to revive with after.  
 
-## Final Battle: Lavos
+## Lavos
 
-### Attack Mode: *Dragon Tank*
+### Final Battle: *Lavos Shell*
+
+#### Attack Mode: *Dragon Tank*
 
 **USE**: Full Tonic on everyone  
 **USE**: Mid Ether on everyone  
@@ -2683,25 +2685,25 @@ Set Battle Gauge Speed to 1
 | :--          | :--        | :--    |
 | Chrono, Ayla | Falcon Hit | Lavos  |
 
-### Attack Mode: *Guardian*
+#### Attack Mode: *Guardian*
 
 | Characters   | Action     | Target |
 | :--          | :--        | :--    |
 | Chrono, Ayla | Falcon Hit | Lavos  |
 
-### Attack Mode: *Heckran*
+#### Attack Mode: *Heckran*
 
 | Characters | Action | Target |
 | :--        | :--    | :--    |
 | Lucca      | Flare  | Lavos  |
 
-### Attack Mode: *Zombor*
+#### Attack Mode: *Zombor*
 
 | Characters   | Action     | Target |
 | :--          | :--        | :--    |
 | Chrono, Ayla | Falcon Hit | Lavos  |
 
-### Attack Mode: *Masa and Mune*
+#### Attack Mode: *Masa and Mune*
 
 **SWAP**: Chrono with Robo, Magus with Ayla, Magus with Robo  
 
@@ -2709,14 +2711,14 @@ Set Battle Gauge Speed to 1
 | :--        | :--         | :--    |
 | Everyone   | Omega Flare | Lavos  |
 
-### Attack Mode: *Nizbel*
+#### Attack Mode: *Nizbel*
 
 | Characters | Action      | Target |
 | :--        | :--         | :--    |
 | Magus      | Lightning 2 | Lavos  |
 | Everyone   | Omega Flare | Lavos  |
 
-### Attack Mode: *Magus*
+#### Attack Mode: *Magus*
 
 | Characters | Action      | Target |
 | :--        | :--         | :--    |
@@ -2728,7 +2730,7 @@ Set Battle Gauge Speed to 1
 
 > This is probably different depending on the barrier  
 
-### Attack Mode: *Azala and Black Tyrano*
+#### Attack Mode: *Azala and Black Tyrano*
 
 | Characters | Action      | Target |
 | :--        | :--         | :--    |
@@ -2739,7 +2741,7 @@ Set Battle Gauge Speed to 1
 | Everyone   | Omega Flare | Lavos  |
 | Everyone   | Omega Flare | Lavos  |
 
-### Attack Mode: *Giga Gaia*
+#### Attack Mode: *Giga Gaia*
 
 **USE**: Mid Ether on Lucca  
 
@@ -2750,7 +2752,7 @@ Set Battle Gauge Speed to 1
 | Robo       | Attack      | Lavos  |
 | Lucca      | Attack      | Lavos  |
 
-### Final Battle: *Lavos Shell*
+#### Attack Mode: *Lavos Shell*
 
 **USE**: HyperEther on Lucca  
 **USE**: Full Tonic on everyone  
