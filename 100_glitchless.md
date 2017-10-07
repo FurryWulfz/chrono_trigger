@@ -1172,4 +1172,613 @@ Medallion cutscene, back through the center corridor
 
 Die, cutscenes  
 
+## 65000000 BC
+
+Head south to the Dactyls  
+Fly west to Mystic Mountain  
+Head back to the Gate  
+
+## The End of Time
+
+Head to Medina Village (1000 AD)  
+
+## 1000 AD
+
+Travel north east to the Forest Ruins  
+
+### Forest Ruins
+
+Interact with the barrier  
+**GET**: Swallow from chest on the right  
+Head back to the Residence to return to the End of Time  
+
+## The End of Time
+
+Travel to Proto Dome (2300 AD)
+
 ## 2300 AD
+
+Exit the Dome  
+
+#### Equip
+
+|          | Chrono       |
+| :-:      | :--          |
+| :hocho:  | **Swallow**  |
+| :tophat: | *Hide Cap*   |
+| :shirt:  | *Ruby Vest*  |
+| :ring:   | *PowerGlove* |
+
+Head north west to Lab 32  
+
+### Lab 32
+
+#### Battle: *Three Mutants*  
+
+| Action   |
+| :--      |
+| Run away |
+
+#### Battle: *Two Mutants*  
+
+| Action   |
+| :--      |
+| Run away |
+
+Exit the Lab  
+
+Head south to the Sewer Access  
+
+### Sewer Access
+
+Head left  
+
+#### Battle: *Two Nereids*  
+
+| Characters | Action | Target |
+| :--        | :--    | :--    |
+| Chrono     | Attack | Nereid |
+| Ayla       | Attack | Nereid |
+
+Go down the ladder  
+Head right, don't interact or collide with anything  
+**SWAP**: Ayla with Marle  
+
+Head up and then right to interact with the switch  
+Go back out and then up through the door  
+
+#### Battle: *Krawlie*  
+
+| Characters    | Action     | Target  |
+| :--           | :--        | :--     |
+| Chrono, Lucca | Fire Sword | Krawlie |
+
+Head down then up the ladder  
+Leave the sewers, then go south into Keeper's Dome  
+
+### Keeper's Dome
+
+Interact with the Sealed Door  
+Interact with the front of the Epoch  
+Travel to the 12000 BC - Dark Ages
+
+## 12000 BC
+
+Head north west to Mt. Woe  
+
+### Mt. Woe
+
+Go down the ladders to the bottom floor  
+Touch the **SAVE**  
+
+#### Equip
+
+|          | Chrono         | Frog         | Robo          |
+| :-:      | :--            | :--          | :--           |
+| :hocho:  | *Swallow*      | *Masamune*   | *MirageHand*  |
+| :tophat: | *Hide Cap*     | *BronzeHelm* | *Iron Helm*   |
+| :shirt:  | *Ruby Vest*    | *Dark Mail*  | *Titan Vest*  |
+| :ring:   | **SilverStud** | **Defender** | **Berserker** |
+
+**USE**: Shelter  
+
+Go into the next room  
+
+#### Battle: *Two Beasts*  
+
+| Characters    | Action    | Target      |
+| :--           | :--       | :--         |
+| Chrono, Marle | Ice Sword | Left Beast  |
+| Chrono, Marle | Ice Sword | Right Beast |
+| Lucca         | Napalm    | Both Beasts |
+
+#### Battle: *Two Beasts*  
+
+| Characters    | Action     | Target       |
+| :--           | :--        | :--          |
+| Chrono, Lucca | Fire Sword | Top Beast    |
+| Chrono, Marle | Ice Sword  | Bottom Beast |
+| Lucca         | Napalm     | Both Beasts  |
+
+#### Decisive Battle: *Blue Beast, Red Beast, and Mud Imp*  
+
+| Characters    | Action     | Target                 |
+| :--           | :--        | :--                    |
+| Lucca         | Hypno Wave | Both Beasts            |
+| Chrono        | Lightning  | Mud Imp                |
+| Chrono, Lucca | Fire Sword | Mud Imp                |
+| Marle         | Provoke    | Red Beast              |
+| Chrono, Lucca | Fire Sword | Mud Imp, until he dies |
+| Chrono, Marle | Ice Sword  | Mud Imp, until he dies |
+
+**SWAP**: Marle with Robo  
+
+#### Equip
+
+|          | Chrono        |
+| :-:      | :--           |
+| :hocho:  | *Swallow*     |
+| :tophat: | *Hide Cap*    |
+| :shirt:  | *Ruby Vest*   |
+| :ring:   | **Berserker** |
+
+Head up the mountain's chain  
+
+#### Battle: *Rubble*  
+
+| Characters   | Action  | Target |
+| :--          | :--     | :--    |
+| Chrono, Robo | Berserk | Rubble |
+
+**SWAP**: Robo with Ayla  
+
+#### Equip
+
+|          | Robo           | Ayla          |
+| :-:      | :--            | :--           |
+| :hocho:  | *MirageHand*   | *Fist*        |
+| :tophat: | *Iron Helm*    | *Rock Helm*   |
+| :shirt:  | *Titan Vest*   | *Mist Robe*   |
+| :ring:   | **SightScope** | **Berserker** |
+
+Head left and up  
+Head left in the next room  
+
+#### Battle: *Rubble*  
+
+| Characters   | Action  | Target |
+| :--          | :--     | :--    |
+| Chrono, Ayla | Berserk | Rubble | 
+
+#### Equip
+
+|          | Chrono      |
+| :-:      | :--         |
+| :hocho:  | *Swallow*   |
+| :tophat: | *Hide Cap*  |
+| :shirt:  | *Ruby Vest* |
+| :ring:   | **Bandana** |
+
+Backtrack right, then up
+
+#### Battle: *Two Gargoyles*  
+
+| Action   |
+| :--      |
+| Run away |
+
+Head up and traverse the area  
+
+#### Battle: *Two Bantam Imps and Two Gargoyles*  
+
+| Action   |
+| :--      |
+| Run away |
+
+#### Equip
+
+|          | Chrono        |
+| :-:      | :--           |
+| :hocho:  | *Swallow*     |
+| :tophat: | *Hide Cap*    |
+| :shirt:  | *Ruby Vest*   |
+| :ring:   | **Berserker** |
+
+Head down and to the left  
+
+#### Battle: *Rubble*  
+
+| Characters   | Action  | Target |
+| :--          | :--     | :--    |
+| Chrono, Ayla | Berserk | Rubble | 
+
+#### Equip
+
+|          | Chrono         | Ayla        |
+| :-:      | :--            | :--         |
+| :hocho:  | *Swallow*      | *Fist*      |
+| :tophat: | *Hide Cap*     | *Rock Helm* |
+| :shirt:  | *Ruby Vest*    | *Mist Robe* |
+| :ring:   | **PowerScarf** | **Bandana** |
+
+Head up and to the right  
+
+#### Battle: *Four Gargoyles*  
+
+| Action   |
+| :--      |
+| Run away |
+
+**GET**: Barrier from the chest before the chain bridge  
+Continue traversing the mountain  
+
+#### Battle: *Four Man Eaters*  
+
+| Action   |
+| :--      |
+| Run away |
+
+#### Battle: *Three Gargoyles*  
+
+| Action   |
+| :--      |
+| Run away |
+
+Touch the **SAVE**  
+**USE**: Shelter  
+Set Battle Gauge Speed to 2  
+Continue through the next area  
+
+#### Decisive Battle: *Giga Gaia*  
+
+| Characters   | Action     | Target     |
+| :--          | :--        | :--        |
+| Chrono, Ayla | Falcon Hit | Both Hands |
+| Chrono, Ayla | Falcon Hit | Both Hands |
+| Chrono, Ayla | Falcon Hit | Giga Gaia  |
+
+Cutscenes  
+**GET**: Ruby Knife from Melchior  
+Use the Skyways to the east  
+
+### Zeal Palace
+
+Head to the second floor on the left side  
+Touch the healing pad  
+Talk to the woman on the bottom left  
+Tell her to plant it  
+Head up the center corridor  
+
+#### Decisive Battle: *Dalton*  
+
+| Characters   | Action     | Target |
+| :--          | :--        | :--    |
+| Chrono, Ayla | Falcon Hit | Dalton |
+| Chrono, Ayla | Falcon Hit | Dalton |
+| Chrono, Ayla | Falcon Hit | Dalton |
+| Lucca        | Flame Toss | Dalton |
+
+> It's fine if Chrono dies here?
+
+### Ocean Palace
+
+Touch the **SAVE**  
+**USE**: Shelter  
+Set Battle Gauge Speed to 1  
+
+Head through the right corridor  
+
+#### Battle: *Jinn and Barghest*  
+
+| Action   |
+| :--      |
+| Run away |
+
+Down and to the left  
+**GET**: Aeon Suit from the chest right outside the door  
+Head down and to the right  
+
+**GET**: Kaiser Arm from the chest in the second section of the next room  
+Head to the left and step on the switch  
+Backtrack out  
+
+Head down the stairs  
+
+#### Battle: *Two Mages and Two Thrashers*  
+
+| Action   |
+| :--      |
+| Run away | 
+
+#### Battle: *Two Thrashers and Two Lashers*  
+
+| Action   |
+| :--      |
+| Run away |
+
+#### Battle: *Two Blue Scouts, Two Scouters, and Mage*  
+
+| Action   |
+| :--      |
+| Run away |
+
+#### Battle: *Jinn, Barghest, and Three Thrashers*  
+
+| Characters   | Action     | Target            |
+| :--          | :--        | :--               |
+| Chrono, Ayla | Falcon Hit | Thrashers         |
+| Chrono, Ayla | Falcon Hit | Jinn and Barghest |
+| Chrono       | Attack     | Barghest          |
+
+#### Battle: *Two Mages, Two Lashers, and Scouter*  
+
+| Characters   | Action     | Target                |
+| :--          | :--        | :--                   |
+| Chrono, Ayla | Falcon Hit | Two Mages and Scouter |
+| Chrono, Ayla | Falcon Hit | Two Lashers           |
+
+#### Battle: *Two Scouters, Two Blue Scouts, Two Red Scouts*  
+
+| Characters   | Action     | Target     |
+| :--          | :--        | :--        |
+| Chrono, Ayla | Falcon Hit | Top row    |
+| Chrono, Ayla | Falcon Hit | Bottom row |
+
+Hit the switch in both rooms  
+Hit the center switch and cross the bridge  
+
+Touch the **SAVE**  
+**USE**: Shelter  
+**GET**: Elixir from the chest on the right  
+
+#### Decisive Battle: *Golem Twins*  
+
+| Characters   | Action     | Target      |
+| :--          | :--        | :--         |
+| Lucca        | Fire       | Both Golems |
+| Chrono, Ayla | Falcon Hit | Both Golems |
+
+> Heal before the last hit to ensure everyone's alive at the end
+
+#### Equip
+
+|          | Chrono         | Robo           |
+| :-:      | :--            | :--            |
+| :hocho:  | *Swallow*      | *MirageHand*   |
+| :tophat: | *Hide Cap*     | *Iron Helm*    |
+| :shirt:  | **Aeon Suit**  | **Ruby Vest**  |
+| :ring:   | **PowerGlove** | **PowerScarf** |
+
+Cutscenes  
+
+### Surface
+
+**SWAP**: Marle with Robo  
+Go to the northern hut to shop  
+
+| Action  | Item       | Cost |    Amount |  Total |
+| :--     | :--        |  --: |       --: |    --: |
+| **Buy** | Shelter    | 150G |        11 |  1650G |
+| **Buy** | Revive     | 200G |        11 |  2200G |
+| **Buy** | Full Tonic | 700G |        40 | 28000G |
+|         |            |      | **Total** | 31850G |
+
+### Commons
+
+Talk to the Elder  
+Cutscenes  
+
+### The Blackbird
+
+Traverse the ventilation to the top left  
+Head down and hit the switch before the conveyor  
+Enter the door on the right  
+
+#### Battle: *Two Bashers and Byte*  
+
+| Characters | Action     | Target |
+| :--        | :--        | :--    |
+| Ayla       | Cat Attack | Byte   |
+| Ayla       | Attack     | Basher |
+| Ayla       | Attack     | Basher |
+
+**GET**: Items from the chest  
+
+|          | Lucca       | Robo           |
+| :-:      | :--         | :--            |
+| :hocho:  | **Air Gun** | **Kaiser Arm** |
+
+Organize items and move Tonics to the top  
+Go through the door on the left and up to the vents  
+Select "Don't care" about missing stuff  
+Go to the bottom left of the area  
+
+#### Decisive Battle: *Golem Boss*  
+
+| Characters | Action          | Target |
+| :--        | :--             | :--    |
+|            | Watch him panic |        |
+
+Cutscenes  
+
+#### Decisive Battle: *Dalton Plus*  
+
+| Characters  | Action      | Target      |
+| :--         | :--         | :--         |
+| Ayla        | Rock Throw  | Dalton Plus |
+| Ayla        | Rock Throw  | Dalton Plus |
+| Ayla        | Rock Throw  | Dalton Plus |
+| Lucca, Robo | Fire Tackle | Dalton Plus |
+
+> Lucca heals Ayla if she's in danger  
+
+Cutscenes  
+Land Epoch by the Commons  
+Go to the shop in the northern hut  
+
+| Action   | Item       |   Cost |    Amount |   Total |
+| :--      | :--        |    --: |       --: |     --: |
+| **Sell** | Full Ether |  3000G |         1 |  -3000G |
+| **Sell** | Elixir     | 10000G |         1 | -10000G |
+| **Sell** | Kaiser Arm | 10500G |         1 | -10500G |
+|          |            |        | **Total** | -23500G |
+
+Head out and to the North Cape  
+Say "No" and try to leave  
+**SWAP**: Ayla and Marle  
+Head back to Epoch  
+Travel to 600 AD - Middle Ages  
+
+## 600 AD
+
+Head south to the Cafe in the town  
+Talk to the blacksmith about his tools  
+Travel to the End of Time  
+
+## The End of Time
+
+Talk to the Old Man about Chrono  
+**GET**: Chrono Trigger from the Old Man  
+Return to Epoch  
+Travel to 1000 AD - Current Day  
+
+## 1000 AD
+
+Land in front of Guardia Castle and enter  
+
+### Guardia Castle
+
+Head up the left side  
+**GET**: Red Vest from the time-locked chest  
+Leave the castle  
+Enter Epoch and land in front of Leene Square  
+
+### Leene Square
+
+**SWAP**: Marle with Magus  
+Enter Norstein Bekkler's Lab on the left and complete the minigame  
+
+> L: Left Arm  
+> R: Right Arm  
+> Y: Laugh  
+> A: Surprise!  
+
+Fail on purpose after 8 inputs to buy the clone for 10000G  
+Go to Chrono's House and retrieve the doll  
+Fly over to Lucca's House and enter  
+**GET**: Taban Suit and Taban Helm from Taban  
+
+Head to the shop to the south and buy some Jerky for 9900G  
+Go to the Inn to the east and talk to the smith for his tools  
+**GET**: Tools from his residence to the south  
+Travel to 600 AD - Middle Ages  
+
+## 600 AD
+
+Give tools to the smith in the cafe  
+Follow him to his residence to the south and talk to him  
+Fly north east to the Northern Ruins
+
+### Northern Ruins
+
+Head left and up the stairs  
+
+#### Battle: *Two Sentries*  
+
+| Characters | Action | Target      |
+| :--        | :--    | :--         |
+| Magus      | Fire 2 | All enemies |
+
+**USE**: Mid Ether on Magus if MP Buster is used  
+Head to the right  
+
+#### Battle: *Two Sentries*  
+
+| Characters | Action | Target      |
+| :--        | :--    | :--         |
+| Magus      | Fire 2 | All enemies |
+
+Backtrack to the center of the room  
+
+#### Battle: *Four Sentries*  
+
+| Characters | Action | Target      |
+| :--        | :--    | :--         |
+| Magus      | Fire 2 | All enemies |
+
+Leave the ruins  
+Fly back to the smith's residence  
+Ask him to repair the ruins for 2000G  
+**SWAP**: Magus with Frog, put Frog in the first slot  
+Visit Cyrus' grave on the left side  
+Leave the ruins  
+
+Enter Epoch and fly to the east to the Elder's House  
+Give the Jerky to the woman for free  
+Fly to Guardia Castle to the south and enter  
+
+### Guardia Castle
+
+Head up the left side  
+**GET**: Red Vest from the time-sealed chest  
+Travel to 2300 AD - Future  
+
+## 2300 AD
+
+Head north east to the Sun Palace  
+**SWAP**: Robo with Lucca, Frog with Ayla, Robo with Magus
+
+#### Equip
+
+|          | Ayla           | Lucca          | Magus          |
+| :-:      | :--            | :--            | :--            |
+| :hocho:  | *Fist*         | *Plasma Gun*   | *DarkScythe*   |
+| :tophat: | *Rock Helm*    | **Taban Helm** | *Doom Helm*    |
+| :shirt:  | **Red Vest**   | **Taban Suit** | **Red Vest**   |
+| :ring:   | **SilverErng** | **Bandana**    | **Speed Belt** |
+
+**USE**: Shelter  
+Set Battle Gauge Speed to 3  
+
+### Sun Palace  
+
+#### Decisive Battle: *Son of Sun*  
+
+| Characters  | Action     | Target     |
+| :--         | :--        | :--        |
+| Magus       | Barrier    | Ayla       |
+| Lucca       | Flame Toss | Son of Sun |
+| Ayla        | Attack     | Son of Sun |
+| Magus       | Attack     | Son of Sun |
+| Lucca       | Attack     | Son of Sun |
+| Magus       | Ice 2      | Son of Sun |
+| Ayla        | Attack     | Son of Sun |
+| Magus       | Attack     | Son of Sun |
+| Lucca       | Attack     | Son of Sun |
+
+> Revive Lucca before the fight ends  
+
+**GET**: Moon Stone  
+Head north to the Keeper's Dome  
+
+### Keeper's Dome
+
+Talk to Belthasar about Death Peak and the Chrono Trigger  
+Leave the Dome and head north to Death Peak  
+**SWAP**: Magus with Robo  
+
+#### Equip
+
+|          | Ayla           | Lucca          | 
+| :-:      | :--            | :--            | 
+| :hocho:  | *Fist*         | *Plasma Gun*   | 
+| :tophat: | *Rock Helm*    | *Taban Helm*   | 
+| :shirt:  | *Red Vest*     | *Taban Suit*   | 
+| :ring:   | **PowerGlove** | **SilverErng** | 
+
+**USE**: Shelter  
+Set Battle Gauge Speed to 1  
+
+### Death Peak
+
+4:05:50 / 5:39:29
