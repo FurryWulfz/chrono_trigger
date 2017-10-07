@@ -1,6 +1,6 @@
 # Chrono Trigger 100% (All Quests) Glitchless
 
-Timing is from naming Chrono to the start of Lavos Core's death animation.  100% is defined as completing all sidequests given by the Guru of Time (after getting the winged Epoch), then finishing the game.
+Timing is from naming Chrono to the start of Lavos Core's death animation. 100% is defined as completing all sidequests given by the Guru of Time (after getting the winged Epoch), then finishing the game.
 
 Remove all saves before starting the game (Start+Select on Controller 2), or hold Up/Down and mash to choose New Game (4-frame window)  
 Battle Mode on Wait  
@@ -1770,10 +1770,10 @@ Leave the Dome and head north to Death Peak
 #### Equip
 
 |          | Ayla           | Lucca          | 
-| :-:      | :--            | :--            | 
-| :hocho:  | *Fist*         | *Plasma Gun*   | 
-| :tophat: | *Rock Helm*    | *Taban Helm*   | 
-| :shirt:  | *Red Vest*     | *Taban Suit*   | 
+| :-:      | :--            | :--            |
+| :hocho:  | *Fist*         | *Plasma Gun*   |
+| :tophat: | *Rock Helm*    | *Taban Helm*   |
+| :shirt:  | *Red Vest*     | *Taban Suit*   |
 | :ring:   | **PowerGlove** | **SilverErng** | 
 
 **USE**: Shelter  
@@ -1781,4 +1781,886 @@ Set Battle Gauge Speed to 1
 
 ### Death Peak
 
-4:05:50 / 5:39:29
+Traverse the area  
+
+#### Decisive Battle: *Lavos Spawn*  
+
+| Characters  | Action      | Target      |
+| :--         | :--         | :--         |
+| Ayla        | Cat Attack  | Lavos Spawn |
+| Lucca, Robo | Fire Tackle | Lavos Spawn |
+
+**USE**: Full Tonic on everyone  
+**GET**: Giga Arm from the chest on the left  
+Hit the switch outside  
+Go back and enter the cave you just opened  
+
+#### Decisive Battle: *Lavos Spawn*  
+
+| Characters  | Action      | Target      |
+| :--         | :--         | :--         |
+| Ayla        | Cat Attack  | Lavos Spawn |
+| Lucca, Robo | Fire Tackle | Lavos Spawn |
+
+**USE**: Full Tonic on everyone  
+Traverse the next few areas  
+
+#### Decisive Battle: *Lavos Spawn*  
+
+| Characters  | Action      | Target      |
+| :--         | :--         | :--         |
+| Ayla        | Cat Attack  | Lavos Spawn |
+| Lucca, Robo | Fire Tackle | Lavos Spawn |
+
+Push the shell and climb up  
+Cutscenes  
+
+## The End of Time
+
+Use the bucket to restore HP and MP  
+**SWAP**: Ayla with Magus, Frog with Lucca 
+Go to the Epoch and travel to 65000000 BC - Prehistoric Ages  
+
+## 65000000 BC
+
+Fly south east to the Sun Keep and leave the Moon Stone  
+Travel to 1000 AD - Current Day
+
+## 1000 AD
+
+Go back in the Sun Keep to find that the stone is gone  
+Fly north east to the Mayor's Manor  
+Talk to the Mayor and leave  
+Fly south west back to Sun Keep and leave the stone again  
+Travel to 2300 AD - Future 
+
+## 2300 AD
+
+Take the stone, return to Lucca's house in 1000 AD  
+
+## 1000 AD
+
+### Lucca's House
+
+**GET**: WonderShot and Sun Shades after the cutscene  
+Return to the Epoch and travel again to 2300 AD  
+
+## 2300 AD
+
+Fly south west to the Geno Dome  
+
+#### Equip
+
+|          | Magus          |
+| :-:      | :--            |
+| :hocho:  | *DarkScythe*   |
+| :tophat: | *Doom Helm*    |
+| :shirt:  | *Red Vest*     |
+| :ring:   | **Sun Shades** |
+
+Set Battle Gauge Speed to 2  
+
+### Geno Dome
+
+Interact with the console  
+
+#### Battle: *Two Debuggest*  
+
+| Characters  | Action      | Target      |
+| :--         | :--         | :--         |
+| Magus       | Lightning 2 | All enemies |
+
+#### Battle: *Two Proto 4s*  
+
+| Characters  | Action      | Target      |
+| :--         | :--         | :--         |
+| Magus       | Lightning 2 | All enemies |
+
+#### Battle: *Four Debuggest*  
+
+| Characters  | Action      | Target      |
+| :--         | :--         | :--         |
+| Magus       | Lightning 2 | All enemies |
+
+#### Battle: *Two Proto 4s and Two Debuggest*  
+
+| Characters  | Action      | Target      |
+| :--         | :--         | :--         |
+| Magus       | Lightning 2 | All enemies |
+
+#### Battle: *Two Proto 4s and Four Debuggest*  
+
+| Characters  | Action      | Target      |
+| :--         | :--         | :--         |
+| Magus       | Lightning 2 | All enemies |
+
+Head through the right door  
+
+#### Battle: *Two Proto 4s and Two Laser Guards*  
+
+| Characters  | Action      | Target      |
+| :--         | :--         | :--         |
+| Magus       | Lightning 2 | All enemies |
+
+Down the elevator, head left  
+Hit the switch on the lower right  
+Backtrack and head south  
+
+#### Battle: *Two Laser Guards*  
+
+| Characters  | Action | Target      |
+| :--         | :--    | :--         |
+| Magus       | Ice 2  | All enemies |
+
+Hit the switch before the laser  
+Head downwards back to the entrance  
+Head to the left side  
+
+#### Battle: *Two Debuggest*  
+
+| Characters  | Action      | Target      |
+| :--         | :--         | :--         |
+| Magus       | Lightning 2 | All enemies |
+
+Backtrack right then upwards  
+
+#### Battle: *Three Proto 4s*  
+
+| Characters  | Action      | Target      |
+| :--         | :--         | :--         |
+| Magus       | Lightning 2 | All enemies |
+
+Head through the left door  
+
+#### Battle: *Four Laser Guards*  
+
+| Characters  | Action | Target      |
+| :--         | :--    | :--         |
+| Magus       | Ice 2  | All enemies |
+
+Hit the left and right switch  
+Head back to the last room and hit the switch next to the door  
+Charge Robo up  
+Get the doll from the left room  
+**GET**: Speed Tab from the same room  
+Charge Robo up again  
+Backtrack to the conveyor belt and activate the door on the left  
+Get the Proto from the room  
+Walk him to the far left side and grab the doll  
+**GET**: Vigil Hat from the chest on the left  
+Return to the left door and up the elevator  
+Touch the **SAVE**  
+
+|          | Lucca          | Magus          | Robo           |
+| :-:      | :--            | :--            | :--            |
+| :hocho:  | **WonderShot** | *DarkScythe*   | **Giga Arm**   |
+| :tophat: | *Taban Helm*   | *Doom Helm*    | **Vigil Hat**  |
+| :shirt:  | *Taban Suit*   | *Red Vest*     | *Ruby Vest*    |
+| :ring:   | **Amulet**     | **Speed Belt** | **Sun Shades** |
+
+**USE**: Shelter  
+**USE**: Speed Tab on Robo  
+Set Battle Gauge Speed to 1  
+
+Move downwards  
+
+#### Battle: *Two Laser Guards*  
+
+| Characters  | Action | Target      |
+| :--         | :--    | :--         |
+| Magus       | Ice 2  | All enemies |
+
+Cutscenes  
+
+#### Decisive Battle: *Atropos XR*  
+
+| Characters | Action     | Target     |
+| :--        | :--        | :--        |
+| Robo       | Uzzi Punch | Atropos XR |
+| Robo       | Uzzi Punch | Atropos XR |
+| Robo       | Uzzi Punch | Atropos XR |
+| Robo       | Elixir     | Robo       |
+| Robo       | Uzzi Punch | Atropos XR |
+| Robo       | Uzzi Punch | Atropos XR |
+| Robo       | Uzzi Punch | Atropos XR |
+
+**USE**: Full Tonic on Robo  
+Hit the switch on the right  
+**GET**: MegaElixir from the chest in the room  
+Head left and up  
+
+#### Battle: *Six Laser Guards*  
+
+| Characters  | Action | Target      |
+| :--         | :--    | :--         |
+| Magus       | Ice 2  | All enemies |
+
+#### Battle: *Six Laser Guards*  
+
+| Characters  | Action | Target      |
+| :--         | :--    | :--         |
+| Magus       | Ice 2  | All enemies |
+
+Put the two dolls on the switches  
+
+#### Decisive Battle: *Mother Brain and the Displays*  
+
+| Characters | Action     | Target                       |
+| :--        | :--        | :--                          |
+| Lucca      | Hypno Wave | Left Display                 |
+| Magus      | Dark Bomb  | Mother Brain, Center Display |
+| Robo       | Attack     | Right Display                |
+| Magus      | Dark Bomb  | Mother Brain                 |
+| Lucca      | Attack     | Mother Brain                 |
+| Robo       | Uzzi Punch | Mother Brain                 |
+
+Enter the Epoch and travel to 600 AD - Middle Ages  
+
+## 600 AD
+
+Head north west to Ozzie's Fort  
+
+#### Equip
+
+> If Robo's 1's digit in his HP is high, equip the Crisis Arm
+
+|          | Robo           |
+| :-:      | :--            |
+| :hocho:  | **Crisis Arm** |
+| :tophat: | *Vigil Hat*    |
+| :shirt:  | *Ruby Vest*    |
+| :ring:   | *Sun Shades*   |
+
+**SWAP**: Magus with Marle  
+**USE**: Mid Ether on Robo  
+
+### Ozzie's Fort
+
+#### Battle: *Flea Plus*  
+
+| Characters | Action     | Target    |
+| :--        | :--        | :--       |
+| Robo       | Uzzi Punch | Flea Plus |
+
+> If you equipped the Crisis Arm, this should one-shot Flea  
+> Attack otherwise
+
+#### Battle: *Super Slash*  
+
+| Characters | Action     | Target    |
+| :--        | :--        | :--       |
+| Robo       | Uzzi Punch | Flea Plus |
+
+> If you equipped the Crisis Arm, this should one-shot Slash  
+> Attack otherwise
+
+**SWAP**: Robo with Frog  
+Intentionally hit the trap to get everyone to 1 HP  
+**GET**: Full Ether from the chest  
+Enter the hidden passage on the left  
+**GET**: DoomSickle, Gloom Helm, and Gloom Cape  
+Leave Ozzie's Fort  
+
+Enter the Epoch and fly south to Giant's Claw  
+
+### Giant's Claw
+
+**SWAP**: Frog with Magus  
+Travel the next few rooms  
+
+#### Battle: *Three Lizardactyls*  
+
+| Action   |
+| :--      |
+| Run away | 
+
+Hit the left switch and fall down the hole  
+**GET**: Blue Rock on the right of the cave before it's exit  
+Go up the left side of the old entrance  
+Hit the switch before the door  
+
+#### Equip
+
+|          | Magus          |
+| :-:      | :--            |
+| :hocho:  | **DoomSickle** |
+| :tophat: | **Gloom Helm** |
+| :shirt:  | **Gloom Cape** |
+| :ring:   | **Berserker**  |
+
+#### Battle: *Rubble*  
+
+| Characters | Action  | Target |
+| :--        | :--     | :--    |
+| Magus      | Berserk | Rubble |
+| Lucca      | Attack  | Rubble |
+| Marle      | Attack  | Rubble |
+
+#### Battle: *Rubble*  
+
+| Characters | Action  | Target |
+| :--        | :--     | :--    |
+| Magus      | Berserk | Rubble |
+| Lucca      | Attack  | Rubble |
+| Marle      | Attack  | Rubble |
+
+**SWAP**: Lucca with Frog  
+Hit the right switch and fall down  
+Traverse the prison  
+**GET**: Mid Ether from the chest before the door  
+
+#### Decisive Battle: *Rust Tyrano*  
+
+| Characters | Action  | Target      |
+| :--        | :--     | :--         |
+| Marle      | Haste   | Magus       |
+| Magus      | Berserk | Rust Tyrano |
+
+Rainbow Shell cutscenes  
+Enter the Epoch and travel to 1000 AD - Present Day
+
+## 1000 AD
+
+### Guardia Castle
+
+Head through the left side then up the stairs  
+Infiltrate the court  
+Head back downstairs to the basement  
+
+#### Battle: *Two Gnashers*  
+
+| Characters | Action  | Target  |
+| :--        | :--     | :--     |
+| Magus      | Berserk | Gnasher |
+| Frog       | Attack  | Gnasher |
+
+#### Battle: *Naga-ette and Gnasher*  
+
+| Characters | Action  | Target    |
+| :--        | :--     | :--       |
+| Magus      | Berserk | Gnasher   |
+| Frog       | Attack  | Naga-ette |
+
+Traverse the rest of the basement  
+**GET**: PrismShard from the shell  
+Head back to the Trial  
+
+#### Decisive Battle: *Yakra XIII*  
+
+| Characters | Action  | Target     |
+| :--        | :--     | :--        |
+| Marle      | Haste   | Magus      |
+| Magus      | Berserk | Yakra XIII |
+
+Cutscenes  
+Head back through the basement  
+Speak with Melchior  
+**GET**: 3x Prism Helms, PrismSpecs, and Rainbow  
+Go back out to the Epoch and travel to 600 AD - Middle Ages  
+
+## 600 AD
+
+Head south to the Sunken Desert  
+**SWAP**: Frog with Lucca, Marle with Lucca  
+
+#### Equip 
+
+|          | Robo           | Magus          |
+| :-:      | :--            | :--            |
+| :hocho:  | *Crisis Arm*   | *DoomSickle*   |
+| :tophat: | *Vigil Hat*    | *Gloom Helm*   |
+| :shirt:  | *Ruby Vest*    | *Gloom Cape*   |
+| :ring:   | **PrismSpecs** | **Sun Shades** |
+
+**USE**: Full Tonic on Magus and Lucca
+**USE**: Mid Ether on Robo
+
+### Sunken Desert 
+
+#### Battle: *Three Hexapods*  
+
+| Action   |
+| :--      |
+| Run away | 
+
+#### Decisive Battle: *Retinite*  
+
+| Characters | Action     | Target         |
+| :--        | :--        | :--            |
+| Magus      | Ice 2      | Retinite       |
+| Robo       | Uzzi Punch | Retinite Legs  |
+| Lucca      | Attack     | Retinite Legs  |
+| Robo       | Uzzi Punch | Retinite Torso |
+| Magus      | Attack     | Retinite Legs  |
+| Lucca      | Attack     | Retinite Legs  |
+| Magus      | Attack     | Retinite Core  |
+| Robo       | Uzzi Punch | Retinite Torso |
+
+Leave the desert  
+Head back north east to Ozzie's Fort  
+
+#### Equip
+
+|          | Robo          | Lucca          |
+| :-:      | :--           | :--            |
+| :hocho:  | *Crisis Arm*  | *WonderShot*   |
+| :tophat: | *Vigil Hat*   | **Prism Helm** |
+| :shirt:  | *Ruby Vest*   | *Taban Suit*   |
+| :ring:   | **Blue Rock** | **PrismSpecs** |
+
+**USE**: Shelter  
+
+### Ozzie's Fort
+
+Traverse back to where you left off  
+
+#### Decisive Battle: *Great Ozzie, Super Slash, and Flea Plus*  
+
+| Characters  | Action       | Target      |
+| :--         | :--          | :--         |
+| Everyone    | Omega Flare  | All enemies |
+| Lucca, Robo | Flame Tackle | Great Ozzie |
+
+**GET**: Dash Ring from the left chest on the right side of the room  
+
+#### Decisive Battle: *Ozzie*  
+
+| Characters | Action | Target      |
+| :--        | :--    | :--         |
+| Magus      | Attack | Left Switch |
+
+Cutscenes, leave Ozzie's Fort  
+
+#### Equip
+
+|          | Magus          | Ayla           | Chrono         |
+| :-:      | :--            | :--            | :--            |
+| :hocho:  | *DoomSickle*   | *Fist*         | **Rainbow**    |
+| :tophat: | *Gloom Helm*   | **Prism Helm** | **Prism Helm** |
+| :shirt:  | *Gloom Cape*   | *Red Vest*     | *Aeon Suit*    |
+| :ring:   | **Speed Belt** | **Dash Ring**  | **Sun Shades** |
+
+**USE**: Shelter
+
+Get into Epoch and fly to Fiona's Villa  
+Talk to Fiona and leave Robo with her  
+Get into Epoch and travel to 1000 AD - Present Day
+
+## 1000 AD
+
+Enter Fiona's Shrine and retrive Robo  
+Cutscenes  
+Save Lucca's mom (LARA)  
+**GET**: GreenDream from Robo  
+
+Use Epoch to fly to the Black Omen  
+
+### Black Omen
+
+**SWAP**: Chrono with Magus, Frog with Chrono  
+
+#### Battle: *Six Laser Guards*  
+
+| Characters  | Action | Target      |
+| :--         | :--    | :--         |
+| Magus       | Ice 2  | All enemies |
+
+#### Decisive Battle: *Mega Mutant*  
+
+| Characters  | Action      | Target      |
+| :--         | :--         | :--         |
+| Magus       | Ice 2       | Mega Mutant |
+| Everyone    | Omega Flare | Mega Mutant |
+
+**SWAP**: Magus with Chrono, Robo with Ayla  
+
+#### Battle: *Two Incognitos*  
+
+| Action   |
+| :--      |
+| Run away |
+
+#### Battle: *Two Goons*  
+
+| Action   |
+| :--      |
+| Run away |
+
+#### Battle: *Two Synchrites and Martello*  
+
+| Characters | Action   | Target    |
+| :--        | :--      | :--       |
+| Ayla       | Charm    | Synchrite |
+|            | Run Away |           |
+
+> Heal anyone who was damaged during that fight  
+
+#### Battle: *Two Panels*  
+
+| Characters   | Action     | Target      |
+| :--          | :--        | :--         |
+| Ayla, Chrono | Falcon Hit | Both Panels |
+
+#### Battle: *Two Panels*  
+
+| Characters   | Action     | Target      |
+| :--          | :--        | :--         |
+| Ayla, Chrono | Falcon Hit | Both Panels |
+
+#### Battle: *Boss Orb and Two Side Kicks*  
+
+| Action   |
+| :--      |
+| Run away |
+
+#### Battle: *Two Metal Mutes and Two Flyclops*  
+
+| Action   |
+| :--      |
+| Run away |
+
+The elevator fights are completely random. You will have a random number of encounters between 0 and 3.  
+
+#### Battle: *Four Ruminators*
+
+| Characters | Action | Target      |
+| :--        | :--    | :--         |
+| Lucca      | Flare  | All enemies |
+
+#### Battle: *Two Goons*
+
+| Characters   | Action     | Target       |
+| :--          | :--        | :--          |
+| Chrono, Ayla | Falcon Hit | Both enemies |
+| Lucca        | Flare      | Both enemies |
+
+**GET**: MegaElixir from the chest on the right before the bridge  
+**GET**: Nova Armor, 2x MegaElixirs, and Haste Helm from the chests next to and after the SAVE  
+Head left  
+
+#### Battle: *Tubster*
+
+| Action   |
+| :--      |
+| Run away |
+
+#### Battle: *Two Cybots*
+
+| Action   |
+| :--      |
+| Run away |
+
+#### Battle: *Boss Orb and Two Side Kicks*  
+
+| Action   |
+| :--      |
+| Run away |
+
+#### Battle: *Two Goons and Flyclops*  
+
+| Action   |
+| :--      |
+| Run away |
+
+**GET**: MegaElixir in the chest  
+
+#### Battle: *Two Boss Orbs and Four Side Kicks*  
+
+| Action   |
+| :--      |
+| Run away |
+
+#### Battle: *Tubster and Two Flyclops*
+
+| Action   |
+| :--      |
+| Run away |
+
+Skip the turret encounter  
+**GET**: Speed Tab from the chest on the left  
+**GET**: Speed Tab from the chest on the right before the door  
+**GET**: Speed Tab from the chest on the right side of the statue  
+**GET**: MegaElixir from the chest on the left side of the statue  
+
+Touch the **SAVE**
+**SWAP**: Chrono with Magus, Ayla with Robo  
+
+|          | Robo           |
+| :-:      | :--            |
+| :hocho:  | *Crisis Arm*   |
+| :tophat: | **Haste Helm** |
+| :shirt:  | **Nova Armor** |
+| :ring:   | **Speed Belt** |
+
+**USE**: Shelter  
+**USE**: 3x Speed Tabs on Lucca  
+
+#### Decisive Battle: *Giga Mutant*  
+
+| Characters  | Action      | Target      |
+| :--         | :--         | :--         |
+| Everyone    | Omega Flare | Giga Mutant |
+
+**SWAP**: Magus with Chrono, Robo with Ayla  
+
+|          | Ayla          | Lucca          | Chrono
+| :-:      | :--           | :--            | :--
+| :hocho:  | *Fist*        | *WonderShot*   | *Rainbow*
+| :tophat: | **Vigil Hat** | *Prism Helm*   | *Prism Helm*
+| :shirt:  | *Red Vest*    | *Taban Suit*   | *Aeon Suit*
+| :ring:   | *Dash Ring*   | **Sun Shades** | **PrismSpecs**
+
+**USE**: Full Tonic on everyone  
+
+Elevator again, same as before  
+
+#### Battle: *Two Synchrites*  
+
+| Characters   | Action     | Target          |
+| :--          | :--        | :--             |
+| Chrono, Ayla | Falcon Hit | Both Synchrites |
+
+#### Battle: *Two Tubsters*  
+
+| Characters   | Action     | Target        |
+| :--          | :--        | :--           |
+| Chrono, Ayla | Falcon Hit | Both Tubsters |
+
+#### Battle: *Four Panels*  
+
+| Characters   | Action     | Target     |
+| :--          | :--        | :--        |
+| Chrono, Ayla | Falcon Hit | All Panels |
+
+**GET**: Speed Tab from the chest before the SAVE  
+Touch the **SAVE**  
+
+**SWAP**: Chrono with Magus, Ayla with Robo, Robo with Magus  
+
+|          | Robo          | Chrono         | Magus          | Lucca          |
+| :-:      | :--           | :--            | :--            | :--            |
+| :hocho:  | *Crisis Arm*  | *Rainbow*      | *DoomSickle*   | *WonderShot*   |
+| :tophat: | *Haste Helm*  | *Prism Helm*   | **Prism Helm** | *Prism Helm*   |
+| :shirt:  | *Nova Armor*  | *Aeon Suit*    | *Gloom Cape*   | *Taban Suit*   |
+| :ring:   | **Gold Erng** | **PowerGlove** | **Blue Rock**  | **PrismSpecs** |
+
+**USE**: Shelter  
+**USE**: Speed Tab on Magus  
+
+#### Decisive Battle: *Terra Mutant*  
+
+| Characters | Action              | Target       |
+| :--        | :--                 | :--          |
+|            | Wait for the absorb |              |
+| Everyone   | Omega Flare         | Terra Mutant |
+| Everyone   | Omega Flare         | Terra Mutant |
+
+**GET**: MegaElixir from the chest on the right  
+
+**USE**: Full Tonic on everyone  
+Set Battle Gauge Speed to 2  
+
+#### Decisive Battle: *Lavos Spawn*  
+
+| Characters | Action     | Target      |
+| :--        | :--        | :--         |
+| Lucca      | Attack     | Lavos Spawn |
+| Magus      | Lapis      | Everyone    |
+| Robo       | Uzzi Punch | Lavos Spawn |
+
+> Magus heals Lucca or Robo if they are in danger  
+
+#### Battle: *Five Panels*  
+
+| Characters | Action | Target     |
+| :--        | :--    | :--        |
+| Lucca      | Flare  | All Panels |
+
+Touch the **SAVE**  
+**USE**: Shelter  
+Set Battle Gauge Speed to 1  
+
+#### Decisive Battle: *Zeal*  
+
+| Characters | Action      | Target |
+| :--        | :--         | :--    |
+| Everyone   | Omega Flare | Zeal   |
+| Everyone   | Omega Flare | Zeal   |
+| Everyone   | Omega Flare | Zeal   |
+
+#### Decisive Battle: *Mammon Machine*  
+
+| Characters | Action      | Target         |
+| :--        | :--         | :--            |
+| Lucca      | MegaElixir  | Everyone       |
+| Everyone   | Omega Flare | Mammon Machine |
+| Robo       | Attack      | Mammon Machine |
+| Everyone   | Omega Flare | Mammon Machine |
+| Everyone   | Omega Flare | Mammon Machine |
+| Everyone   | Omega Flare | Mammon Machine |
+
+#### Decisive Battle: *Zeal*  
+
+| Characters  | Action      | Target   |
+| :--         | :--         | :--      |
+| Magus       | MegaElixir  | Everyone |
+| Lucca, Robo | DoublevBomb | Zeal     |
+
+> Revive and heal with Magus  
+> When Zeal is below half health she will use Hallation, followed by a move by the hands. It will use MP buster or an attack, which you will need to revive with after.  
+
+## Final Battle: Lavos
+
+### Attack Mode: *Dragon Tank*
+
+**USE**: Full Tonic on everyone  
+**USE**: Mid Ether on everyone  
+**SWAP**: Robo with Chrono, Magus with Ayla  
+
+| Characters   | Action     | Target |
+| :--          | :--        | :--    |
+| Chrono, Ayla | Falcon Hit | Lavos  |
+
+### Attack Mode: *Guardian*
+
+| Characters   | Action     | Target |
+| :--          | :--        | :--    |
+| Chrono, Ayla | Falcon Hit | Lavos  |
+
+### Attack Mode: *Heckran*
+
+| Characters | Action | Target |
+| :--        | :--    | :--    |
+| Lucca      | Flare  | Lavos  |
+
+### Attack Mode: *Zombor*
+
+| Characters   | Action     | Target |
+| :--          | :--        | :--    |
+| Chrono, Ayla | Falcon Hit | Lavos  |
+
+### Attack Mode: *Masa and Mune*
+
+**SWAP**: Chrono with Robo, Magus with Ayla, Magus with Robo  
+
+| Characters | Action      | Target |
+| :--        | :--         | :--    |
+| Everyone   | Omega Flare | Lavos  |
+
+### Attack Mode: *Nizbel*
+
+| Characters | Action      | Target |
+| :--        | :--         | :--    |
+| Magus      | Lightning 2 | Lavos  |
+| Everyone   | Omega Flare | Lavos  |
+
+### Attack Mode: *Magus*
+
+| Characters | Action      | Target |
+| :--        | :--         | :--    |
+| Lucca      | Attack      | Lavos  |
+| Everyone   | Omega Flare | Lavos  |
+| Robo       | Robo Tackle | Lavos  |
+| Lucca      | Attack      | Lavos  |
+| Magus      | Attack      | Lavos  |
+
+> This is probably different depending on the barrier  
+
+### Attack Mode: *Azala and Black Tyrano*
+
+| Characters | Action      | Target |
+| :--        | :--         | :--    |
+| Magus      | Full Ether  | Lucca  |
+| Lucca      | Flare       | Lavos  |
+| Robo       | Mid Ether   | Lucca  |
+| Everyone   | Omega Flare | Lavos  |
+| Everyone   | Omega Flare | Lavos  |
+| Everyone   | Omega Flare | Lavos  |
+
+### Attack Mode: *Giga Gaia*
+
+**USE**: Mid Ether on Lucca  
+
+| Characters | Action      | Target |
+| :--        | :--         | :--    |
+| Everyone   | Omega Flare | Lavos  |
+| Everyone   | Omega Flare | Lavos  |
+| Robo       | Attack      | Lavos  |
+| Lucca      | Attack      | Lavos  |
+
+### Final Battle: *Lavos Shell*
+
+**USE**: HyperEther on Lucca  
+**USE**: Full Tonic on everyone  
+
+| Characters | Action      | Target |
+| :--        | :--         | :--    |
+| Magus      | Dark Bomb   | Lavos  |
+| Lucca      | Full Tonic  | Lucca  |
+| Robo       | Uzzi Punch  | Lavos  |
+| Everyone   | Omega Flare | Lavos  |
+| Everyone   | Omega Flare | Lavos  |
+
+Touch the **SAVE**  
+**USE**: Shelter  
+Set Battle Gauge Speed to 3
+
+### Final Battle: *Lavos*
+
+| Characters  | Action      | Target           |
+| :--         | :--         | :--              |
+| Magus       | Revive      | Robo             |
+| Magus       | Revive      | Lucca            |
+| Robo        | MegaElixir  | Everyone         |
+| Everyone    | Omega Flare | Lavos            |
+| Everyone    | Omega Flare | Lavos            |
+| Lucca, Robo | DoublevBomb | Lavos' Right Arm |
+| Everyone    | Omega Flare | Lavos            |
+| Robo        | Elixir      | Lucca            |
+| Everyone    | Omega Flare | Lavos            |
+| Everyone    | Omega Flare | Lavos            |
+| Everyone    | Omega Flare | Lavos            |
+| Magus       | Attack      | Lavos            |
+| Magus       | Attack      | Lavos            |
+| Magus       | Attack      | Lavos            |
+
+### Final Battle: *Lavos Core*
+
+| Characters  | Action      | Target   |
+| :--         | :--         | :--      |
+| Lucca       | MegaElixir  | Everyone |
+| Robo        | Uzzi Punch  | Left Bit |
+| Magus       | Shadow Bomb | Lavos    |
+| Everyone    | Omega Flare | Lavos    |
+| Everyone    | Omega Flare | Lavos    |
+| Everyone    | Omega Flare | Lavos    |
+| Robo        | Uzzi Punch  | Left Bit |
+| Magus       | Shadow Bomb | Lavos    |
+| Everyone    | Omega Flare | Lavos    |
+| Everyone    | Omega Flare | Lavos    |
+| Everyone    | Omega Flare | Lavos    |
+| Robo        | MegaElixir  | Everyone |
+| Everyone    | Omega Flare | Lavos    |
+| Everyone    | Omega Flare | Lavos    |
+
+The Left Bit will heal Lavos' center over time, so it should be killed immediately  
+The Center will Time Warp and attack based off of the time it's chosen:
+
+**65000000 BC:** *Grandstone / Ultimate Attack*  
+High physical damage  
+**12000 BC:** *Unholy Light / Slow*  
+Low damage, inflicts Slow  
+**600 AD:** *Game Over*  
+High phyiscal and magic damage  
+**1000 AD:** *Diabolic Whisper / Inficts random status*  
+Low damage, inflicts status ailments  
+**2300 AD:** *Dreamreaver / Ultimate magic*  
+High magic damage  
+
+## The End
+
+Cutscenes  
+Parade  
+See everyone off  
+Talk to the King  
+Credits  
