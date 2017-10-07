@@ -2759,7 +2759,7 @@ Set Battle Gauge Speed to 1
 
 | Enemy     |    HP |  Exp |  TP |  Gold |
 | :--       |   --: |  --: | --: |   --: |
-| Zeal      | 30000 |    0 |   0 |    0G |
+| Lavos     | 30000 |    0 |   0 |    0G |
 
 | Characters | Action      | Target |
 | :--        | :--         | :--    |
