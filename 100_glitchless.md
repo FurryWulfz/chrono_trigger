@@ -169,16 +169,10 @@ Touch the **SAVE**
 | :--   | --: | --: | --: |  --: |
 | Yakra | 920 |  50 |   5 | 600G |
 
-| Characters   | Action                                | Target |
-| :--          | :--                                   | :--    |
-|              | Wait for Yakra to move closer to Frog |        |
-| Chrono, Frog | X Strike                              | Yakra  |
-| Chrono, Frog | X Strike                              | Yakra  |
-| Lucca        | Tonic                                 | Lucca  |
-| Chrono, Frog | X Strike                              | Yakra  |
-| Chrono, Frog | X Strike                              | Yakra  |
-| Chrono, Frog | X Strike                              | Yakra  |
-| Lucca        | Attack                                | Yakra  |
+| Characters   | Action   | Target |
+| :--          | :--      | :--    |
+| Chrono, Frog | X Strike | Yakra  |
+| Lucca        | Healing  | Lucca  |
 
 **GET**: Mid Ether from right chest
 
@@ -263,18 +257,14 @@ Change Battle Gauge to 1
 | Head  | 600 |     |     |      |
 | Wheel | 208 |     |     |      |
 
-| Characters    | Action     | Target      |
-| :--           | :--        | :--         |
-| Chrono        | Attack     | Tank Head   |
-| Lucca         | Attack     | Tank Head   |
-| Chrono        | Attack     | Tank Head   |
-| Lucca         | Attack     | Tank Head   |
-| Chrono        | Attack     | Tank Head   |
-| Lucca         | Attack     | Tank Head   |
-| Chrono        | Cyclone    | Dragon Tank |
-| Chrono, Lucca | Fire Whirl | Dragon Tank |
-| Chrono, Lucca | Fire Whirl | Dragon Tank |
-| Chrono        | Attack     | Dragon Tank |
+| Characters    | Action     | Target               |
+| :--           | :--        | :--                  |
+| Chrono, Lucca | Attack     | Tank Head until dead |
+| Chrono        | Cyclone    | Tank Body            |
+| Chrono, Lucca | Fire Whirl | Tank Body            |
+| Chrono        | Attack     | Tank Body            |
+
+> Heal if < 50 HP
 
 **GET**: Shelter from chest in first room  
 Guard text skip on final floor  
@@ -316,16 +306,16 @@ Cross the rafters
 | Guardian | 1200 | 300 |   5 | 1000G |
 | Pod      |  200 |     |     |       |
 
-| Characters    | Action     | Target    |
-| :--           | :--        | :--       |
-| Chrono, Marle | Attack     | Pod 1     |
-| Lucca         | Flame Toss | Pod 1     |
-| Chrono, Marle | Attack     | Pod 2     |
-| Lucca         | Flame Toss | Pod 2     |
-| Marle         | Attack     | Guardian  |
-| Lucca         | Attack     | Guardian  |
-| Chrono        | Attack     | Guardian  |
+| Characters | Action     | Target   |
+| :--        | :--        | :--      |
+| Chrono     | Attack     | Bits     |
+| Marle      | Attack     | Bits     |
+| Lucca      | Flame Toss | Bits     |
+| Marle      | Attack     | Guardian |
+| Lucca      | Attack     | Guardian |
+| Chrono     | Attack     | Guardian |
 
+> Do not attack Guardian until both Bits are dead  
 > Lucca heal if someone is in danger  
 > Everyone heals themselves if Delta Attack is used  
 > You can 2-cycle if you crit on Guardian after killing the bits  
@@ -441,6 +431,7 @@ Talk to the Old Man
 Leave Robo  
 Go talk to Spekkio  
 Walk around the room 3 times  
+Say "No" to try out magic  
 Travel to Medina Village, 1000 AD (top right)  
 
 ## 1000 AD
@@ -762,10 +753,10 @@ Exit Mystic Mountain
 Head east across the bridge into the Chief's Hut on the left  
 Talk to Robo then Ayla at the party  
 Mash A to eat  
-Talk to Ayla again  
-Ayla joins the party  
-**SWAP**: Lucca with Ayla  
 
+Talk to Ayla in her hut  
+Ayla joins the party  
+**SWAP**: Lucca with Robo  
 Head south to the Forest Maze
 
 ### Forest Maze
@@ -831,8 +822,7 @@ Say "Yes"
 | Chrono     | Attack    | Nizbel |
 
 > Use Lightning again when Nizbel releases electrocution energy  
-> Chrono uses Tonic on Ayla afterwards  
-> If you crit with Ayla twice, you will two cycle  
+> Chrono heals himself and Ayla afterwards  
 
 Head back to Mystic Mountain to return to the End of Time
 
@@ -862,7 +852,7 @@ Head out and to the Cursed Woods
 
 Give Frog the Masamune  
 Cutscenes  
-**SWAP**: Lucca with Frog  
+**SWAP**: Lucca with Robo  
 Leave the woods and head east to the Magic Cave
 
 #### Equip
@@ -1013,7 +1003,7 @@ Head back to the entrance and touch the fake SAVE
 
 **GET**: Mist Robe from the chest before the door  
 **GET**: Dark Mail from the chest after the second conveyor belt  
-Traverse the next few moves  
+Traverse the next few rooms  
 
 #### Battle: *Two Outlaws and Two Groupies*
 
@@ -1040,7 +1030,7 @@ Traverse the next few moves
 | Chrono, Frog | X Strike   | Each Juggler              |
 
 **GET**: Speed Belt before the door  
-Traverse the next two rooms  
+Traverse the next room  
 
 #### Decisive Battle: *Ozzie*
 
@@ -1098,7 +1088,8 @@ Follow Ayla out north to Dactyl's Nest
 
 **GET**: Mid Ether from chest on the right  
 Skip the Shist by the cliff using pause buffering  
-**SWAP**: Frog with Ayla  
+Ayla rejoins the party  
+**SWAP**: Leave as-is  
 Get carried off by the Dactyls and fly east to Tyrano Lair  
 
 ### Tyrano Lair
