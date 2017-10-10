@@ -2,10 +2,9 @@
 
 Timing is from naming Chrono to the start of Lavos Core's death animation. 100% is defined as completing all sidequests given by the Guru of Time (after getting the winged Epoch), then finishing the game.
 
-Remove all saves before starting the game (Start+Select on Controller 2), or hold Up/Down and mash to choose New Game (4-frame window)  
-Battle Mode on Wait  
-
 This route was made referencing [puwexil's route](https://www.youtube.com/watch?v=UCTi18ZXqBE).
+
+Battle Mode on Wait  
 
 ## 1000 AD
 
